@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Sketchy">
+<meta name="theme-color" content="#000000">
+<title>Sketchy Spots</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#000;--p:#0a0a0b;--p2:#121314;--ln:#1c1e1f;--ln2:#2a2d2f;--ink:#f2f4f3;--mut:#8a918e;--dim:#5a605d;--g:#00c805;--r:#ff5000;--a:#f5b400;--b:#7cc4ff}
+*{box-sizing:border-box}
+html,body{margin:0;background:#000;color:var(--ink);font-family:Inter,-apple-system,BlinkMacSystemFont,'SF Pro Text',system-ui,sans-serif;font-size:14px;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum" 1}
+.wrap{max-width:1240px;margin:0 auto;padding:22px 20px 60px}
+header{display:flex;justify-content:space-between;align-items:flex-end;gap:12px;flex-wrap:wrap}
+h1{margin:0;font-size:22px;font-weight:700;letter-spacing:-.01em}
+h1 i{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--g);margin-right:10px;vertical-align:middle;position:relative;top:-2px}
+.sub{color:var(--mut);font-size:12px;margin-top:6px}
+.pos{color:var(--g)}.neg{color:var(--r)}.mut{color:var(--mut)}.dim{color:var(--dim)}.amb{color:var(--a)}
+.kpis{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:20px 0 10px}
+.kpi{background:var(--p);border:1px solid var(--ln);border-radius:14px;padding:15px 16px}
+.kpi .l{color:var(--mut);font-size:12px;font-weight:500}
+.kpi .v{font-size:28px;font-weight:700;letter-spacing:-.02em;margin-top:6px;white-space:nowrap}
+.kpi .f{color:var(--mut);font-size:11.5px;margin-top:4px}
+.sports{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin-bottom:20px}
+.sp{background:var(--p);border:1px solid var(--ln);border-radius:12px;padding:11px 13px}
+.sp .n{font-size:12px;font-weight:600;display:flex;justify-content:space-between}
+.sp .row{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;margin-top:8px}
+.sp .row div{font-size:11px;color:var(--mut)}
+.sp .row b{display:block;font-size:15px;font-weight:700;color:var(--ink);margin-top:2px;white-space:nowrap}
+nav{display:flex;gap:4px;border-bottom:1px solid var(--ln);margin-bottom:16px}
+nav button{background:none;border:none;color:var(--mut);font:inherit;font-weight:500;padding:12px 16px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}
+nav button.on{color:var(--ink);border-bottom-color:var(--g)}
+.panel{background:var(--p);border:1px solid var(--ln);border-radius:14px;overflow:auto;margin-bottom:14px}
+.ph{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:13px 16px;border-bottom:1px solid var(--ln);flex-wrap:wrap}
+.ph h2{margin:0;font-size:14px;font-weight:700}
+.ph .note{color:var(--mut);font-size:12px}
+table{width:100%;border-collapse:collapse}
+th{color:var(--mut);font-weight:500;font-size:11px;letter-spacing:.03em;text-align:left;padding:9px 12px;border-bottom:1px solid var(--ln);white-space:nowrap;background:var(--p)}
+td{padding:10px 12px;border-bottom:1px solid #141617;white-space:nowrap}
+tr:hover td{background:#0f1011}
+.n{text-align:right}.c{text-align:center}
+.bet{font-weight:700;color:var(--g)}
+.game{font-weight:600}
+.tag{font-size:10.5px;color:var(--mut);border:1px solid var(--ln2);border-radius:5px;padding:1px 6px}
+.tag.k{color:var(--b);border-color:#24425a}
+.res{display:inline-block;min-width:24px;text-align:center;font-weight:700;border-radius:6px;padding:2px 7px;color:#000;font-size:12px}
+.res.W{background:var(--g)}.res.L{background:var(--r)}.res.P{background:var(--a)}
+.empty{padding:26px;text-align:center;color:var(--mut)}
+.pills{display:flex;gap:6px;flex-wrap:wrap}
+.pill{background:var(--p2);color:var(--mut);border:1px solid var(--ln2);border-radius:999px;padding:6px 13px;font:inherit;font-size:12.5px;font-weight:500;cursor:pointer}
+.pill.on{background:var(--ink);color:#000;border-color:var(--ink)}
+select,.srch{background:var(--p2);color:var(--ink);border:1px solid var(--ln2);border-radius:8px;padding:7px 10px;font:inherit;font-size:12.5px}
+.filters{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.hidden{display:none}
+.hero{padding:20px 20px 6px}
+.hero .big{font-size:40px;font-weight:700;letter-spacing:-.02em}
+.hero .chg{font-size:14px;font-weight:600;margin-top:4px}
+.hero .when{color:var(--mut);font-weight:500}
+.chart{padding:8px 8px 0;position:relative}
+.legend{display:flex;gap:16px;color:var(--mut);font-size:12px;padding:10px 20px 16px;flex-wrap:wrap;align-items:center}
+.sw{display:inline-block;width:18px;height:0;border-top:2px solid;vertical-align:middle;margin-right:6px}
+.alert{border:1px solid #3a2a00;background:#120d00;color:var(--a);border-radius:10px;padding:9px 13px;font-size:12px;margin:12px 0}
+.why{white-space:normal!important;color:var(--mut);font-size:11.5px;min-width:220px}
+.bt{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--ln)}
+.bt div{background:var(--p);padding:11px 14px;font-size:11.5px;color:var(--mut)}
+.bt b{display:block;color:var(--ink);font-size:16px;margin-top:3px}
+@media(max-width:700px){.bt{grid-template-columns:repeat(2,1fr)}}
+.foot{color:var(--dim);font-size:11px;margin-top:16px;line-height:1.6}
+@media(max-width:1100px){.kpi .v{font-size:23px}}
+@media(max-width:900px){.kpis{grid-template-columns:repeat(2,1fr)}.sports{grid-template-columns:1fr}.kpi .v{font-size:22px}.hero .big{font-size:32px}td,th{padding:8px 8px}}
+@media(max-width:600px){table.plays{table-layout:fixed;width:100%}table.plays td,table.plays th{padding:9px 4px;font-size:12.5px}table.plays th{font-size:10.5px}table.plays th:nth-child(1){width:19%}table.plays th:nth-child(2){width:33%}table.plays th:nth-child(3){width:17%}table.plays th:nth-child(4){width:15%}table.plays th:nth-child(5){width:16%}table.plays .dim{white-space:normal;font-size:10.5px!important}.panel{overflow-x:auto}}
+.lock{font-size:10.5px;color:var(--dim)}
+@media(max-width:600px){table.plays td{white-space:normal;vertical-align:top}}
+.gapbar{display:inline-block;height:6px;border-radius:3px;background:var(--a);vertical-align:middle;margin-left:6px;opacity:.8}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header><div><h1><i></i>Sketchy Spots</h1><div class="sub" id="sub"></div></div></header>
+  <div id="alerts"></div>
+  <div class="kpis" id="kpis"></div>
+  <div class="sports" id="sports"></div>
+  <nav><button data-t="plays" class="on">Today's Spots</button><button data-t="profit">Profit</button><button data-t="log">Bet Log</button><button data-t="bt">Backtest</button><button data-t="rt">Ratings</button></nav>
+  <section id="t-plays"></section>
+  <section id="t-profit" class="hidden"></section>
+  <section id="t-log" class="hidden"></section>
+  <section id="t-bt" class="hidden"></section>
+  <section id="t-rt" class="hidden"></section>
+  <div class="foot" id="foot"></div>
+</div>
+<script>
+const D = /*__DATA__*/null;
+const $=s=>document.querySelector(s);
+const SPORTS=Object.keys(D.sports);
+const tz={timeZone:'America/New_York'};
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fdate=s=>new Date(s).toLocaleDateString('en-US',{...tz,weekday:'short',month:'short',day:'numeric'});
+const ftime=s=>new Date(s).toLocaleTimeString('en-US',{...tz,hour:'numeric',minute:'2-digit'});
+const sgn=(x,d=2)=>(x>0?'+':x<0?'−':'')+Math.abs(x).toFixed(d);
+const cls=x=>x>0?'pos':x<0?'neg':'mut';
+const am=x=>x===null||x===undefined?'—':(x>0?'+':'')+Math.round(x);
+const ln=x=>x===null||x===undefined?'':(x===0?'PK':(x>0?'+':'')+x);
+const pct=(x,d=0)=>x===null||x===undefined?'—':(x*100).toFixed(d)+'%';
+const play=b=>b.mkt==='spread'?`${b.team} ${ln(b.line)}`:`${b.team} ML`;
+const gapTxt=(sk,g)=>g===null||g===undefined?'—':(D.sports[sk].mkt==='spread'?g.toFixed(1)+' pts':(g*100).toFixed(1)+' pts');
+const oursTxt=(sk,o)=>D.sports[sk].mkt==='spread'?ln(Math.round(o*2)/2):pct(o);
+
+function stats(bs){
+  const g=bs.filter(b=>b.result), w=g.filter(b=>b.result==='W').length, l=g.filter(b=>b.result==='L').length, p=g.filter(b=>b.result==='P').length;
+  const u=g.reduce((a,b)=>a+b.pl,0), risk=g.filter(b=>b.result!=='P').reduce((a,b)=>a+b.units,0);
+  const cs=bs.filter(b=>b.clv!==null&&b.clv!==undefined&&b.mkt==='spread');
+  return {w,l,p,u,roi:risk?u/risk:null,open:bs.length-g.length,n:bs.length,
+          clv:cs.length?cs.reduce((a,b)=>a+b.clv,0)/cs.length:null,beat:cs.length?cs.filter(b=>b.clv>0).length/cs.length:null,same:cs.length?cs.filter(b=>b.clv===0).length/cs.length:null,ncl:cs.length};
+}
+function renderTop(){
+  $('#sub').textContent=`Updated ${fdate(D.generated)} ${ftime(D.generated)} ET · lines that respect a team more than its results do · flat 1u · ledger is locked`;
+  $('#alerts').innerHTML=(D.notes||[]).map(n=>`<div class="alert">${esc(n)}</div>`).join('');
+  const s=stats(D.bets);
+  const k=(l,v,f,c='')=>`<div class="kpi"><div class="l">${l}</div><div class="v ${c}">${v}</div><div class="f">${f}</div></div>`;
+  $('#kpis').innerHTML=k('Record',`${s.w}-${s.l}${s.p?'-'+s.p:''}`,`${s.open} open · ${s.n} bets`)
+   +k('Units won',sgn(s.u)+'u',`on ${(s.w+s.l)}u risked`,cls(s.u))
+   +k('ROI',s.roi===null?'—':sgn(s.roi*100,1)+'%','graded bets',s.roi===null?'':cls(s.roi))
+   +k('Avg CLV (spreads)',s.clv===null?'—':sgn(s.clv,2)+' pts',`${s.ncl} bets with a close`,s.clv===null?'':cls(s.clv))
+   +k('Beat the close',s.beat===null?'—':pct(s.beat),s.same===null?'spread bets':`${pct(s.same)} same as close · ${pct(1-s.beat-s.same)} worse`);
+  $('#sports').innerHTML=SPORTS.map(sk=>{const b=stats(D.bets.filter(x=>x.sport===sk));
+    return `<div class="sp"><div class="n">${esc(D.sports[sk].label)}<span class="${cls(b.u)}">${sgn(b.u)}u</span></div><div class="row">
+      <div>Record<b>${b.w}-${b.l}${b.p?'-'+b.p:''}</b></div><div>ROI<b class="${b.roi===null?'':cls(b.roi)}">${b.roi===null?'—':sgn(b.roi*100,1)+'%'}</b></div><div>Open<b>${b.open}</b></div></div></div>`}).join('');
+}
+function renderPlays(){
+  $('#t-plays').innerHTML=SPORTS.map(sk=>{
+    const m=D.sports[sk], bd=m.board;
+    const bets=bd?D.bets.filter(b=>b.sport===sk&&bd.rows.some(r=>r.id===b.event_id)):[];
+    const head=`<div class="ph"><h2>${esc(m.label)} <span class="mut" style="font-weight:500">· ${bets.length} spot${bets.length===1?'':'s'}</span></h2><span class="note">${bd?'Locked '+fdate(bd.at)+' '+ftime(bd.at)+' · ':''}locks ${esc(m.lock)} · next ${fdate(m.next_lock)} ${ftime(m.next_lock)}</span></div>`;
+    if(!bets.length) return `<div class="panel">${head}<div class="empty">${bd?'No sketchy spots at lock time.':'Not locked yet.'}</div></div>`;
+    return `<div class="panel">${head}<table class="plays"><thead><tr><th>Start</th><th>Play</th><th class="n">Our line</th><th class="n">Gap</th><th class="n">Units</th></tr></thead><tbody>${bets.map(b=>`<tr>
+      <td class="mut">${fdate(b.commence)}<br><b style="color:var(--ink)">${ftime(b.commence)}</b></td>
+      <td><span class="bet">${esc(play(b))}</span> <span class="mut">${am(b.price)}</span><div class="dim" style="font-size:11.5px">${esc(b.game)}${b.result?` · <span class="${cls(b.pl)}">${b.result} ${sgn(b.pl)}u</span>`:''}</div></td>
+      <td class="n mut">${esc(b.team)} ${oursTxt(sk,b.ours)}</td>
+      <td class="n amb"><b>${gapTxt(sk,b.gap)}</b></td>
+      <td class="n"><b>${b.units.toFixed(2)}u</b></td></tr>`).join('')}</tbody></table></div>`;
+  }).join('');
+}
+// ---------- profit chart ----------
+let pSport='all';
+function renderProfit(){
+  const bs=D.bets.filter(b=>b.result&&(pSport==='all'||b.sport===pSport)).sort((a,b)=>a.commence<b.commence?-1:1);
+  let cum=0; const pts=bs.map(b=>({t:b.commence,y:(cum+=b.pl),b}));
+  const W=1000,H=300,P=18;
+  let svg='<div class="empty">No graded bets yet.</div>';
+  if(pts.length){
+    const ys=[0,...pts.map(p=>p.y)], mn=Math.min(...ys), mx=Math.max(...ys), rg=(mx-mn)||1;
+    const X=i=>P+(W-2*P)*(pts.length===1?1:i/(pts.length-1)), Y=y=>P+(H-2*P)*(1-(y-mn)/rg);
+    const col=cum>=0?'var(--g)':'var(--r)';
+    const path='M'+X(0)+','+Y(0)+' '+pts.map((p,i)=>'L'+X(i)+','+Y(p.y)).join(' ');
+    svg=`<svg viewBox="0 0 ${W} ${H}" width="100%" style="display:block" id="pc"><line x1="${P}" x2="${W-P}" y1="${Y(0)}" y2="${Y(0)}" stroke="var(--ln2)" stroke-dasharray="4 4"/><path d="${path}" fill="none" stroke="${col}" stroke-width="2.2"/><line id="hx" y1="${P}" y2="${H-P}" stroke="var(--ln2)" visibility="hidden"/><circle id="hd" r="4" fill="${col}" visibility="hidden"/></svg>`;
+    setTimeout(()=>{const el=$('#pc'); if(!el) return; const big=$('#pbig'), when=$('#pwhen');
+      const mv=e=>{const r=el.getBoundingClientRect(); const x=((e.touches?e.touches[0].clientX:e.clientX)-r.left)/r.width*W;
+        let i=Math.round((x-P)/(W-2*P)*(pts.length-1)); i=Math.max(0,Math.min(pts.length-1,i)); const p=pts[i];
+        $('#hx').setAttribute('x1',X(i));$('#hx').setAttribute('x2',X(i));$('#hx').setAttribute('visibility','visible');
+        $('#hd').setAttribute('cx',X(i));$('#hd').setAttribute('cy',Y(p.y));$('#hd').setAttribute('visibility','visible');
+        big.textContent=sgn(p.y)+'u'; big.className='big '+cls(p.y); when.textContent=`${fdate(p.t)} · ${play(p.b)} ${p.b.result}`;};
+      const out=()=>{big.textContent=sgn(cum)+'u'; big.className='big '+cls(cum); when.textContent='all time'; ['#hx','#hd'].forEach(s=>$(s).setAttribute('visibility','hidden'));};
+      el.addEventListener('mousemove',mv); el.addEventListener('touchmove',mv,{passive:true}); el.addEventListener('mouseleave',out); el.addEventListener('touchend',out);},0);
+  }
+  $('#t-profit').innerHTML=`<div class="panel"><div class="ph"><div class="pills">${['all',...SPORTS].map(k=>`<button class="pill ${k===pSport?'on':''}" data-p="${k}">${k==='all'?'All':esc(D.sports[k].label)}</button>`).join('')}</div></div>
+    <div class="hero"><div class="big ${cls(cum)}" id="pbig">${sgn(cum)}u</div><div class="chg"><span class="when" id="pwhen">all time</span> · ${pts.length} graded bets</div></div><div class="chart">${svg}</div></div>`;
+  document.querySelectorAll('[data-p]').forEach(e=>e.onclick=()=>{pSport=e.dataset.p;renderProfit();});
+}
+// ---------- bet log ----------
+let lSport='all', lRes='all';
+function renderLog(){
+  const bs=D.bets.filter(b=>(lSport==='all'||b.sport===lSport)&&(lRes==='all'||(lRes==='open'?!b.result:b.result===lRes))).slice().reverse();
+  $('#t-log').innerHTML=`<div class="panel"><div class="ph"><div class="filters"><select id="ls"><option value="all">All sports</option>${SPORTS.map(k=>`<option value="${k}" ${k===lSport?'selected':''}>${esc(D.sports[k].label)}</option>`).join('')}</select>
+    <select id="lr">${['all','W','L','P','open'].map(r=>`<option ${r===lRes?'selected':''} value="${r}">${r==='all'?'All results':r==='open'?'Open':r}</option>`).join('')}</select></div><span class="note">Every bet is saved once at lock and never recalculated</span></div>
+    <table><thead><tr><th>Game</th><th>Play</th><th class="n">Taken</th><th class="n">Our line</th><th class="n">Gap</th><th class="n">Close</th><th class="n">CLV</th><th class="c">Result</th><th class="n">Score</th><th class="n">P/L</th><th>Locked</th></tr></thead><tbody>
+    ${bs.map(b=>`<tr><td><div class="game">${esc(b.game)}</div><div class="dim" style="font-size:11.5px">${esc(D.sports[b.sport].label)} · ${fdate(b.commence)} ${ftime(b.commence)}</div></td>
+      <td><span class="bet">${esc(play(b))}</span></td><td class="n"><b>${b.mkt==='spread'?ln(b.line)+' ':''}${am(b.price)}</b></td>
+      <td class="n mut">${oursTxt(b.sport,b.ours)}</td><td class="n amb">${gapTxt(b.sport,b.gap)}</td>
+      <td class="n mut">${b.closed_at?(b.mkt==='spread'?ln(b.close_line)+' ':'')+am(b.close_price):'<span class="dim">pending</span>'}</td>
+      <td class="n ${b.clv===null?'':cls(b.clv)}">${b.clv===null?'—':(b.mkt==='spread'?sgn(b.clv,1)+' pts':sgn(b.clv*100,1)+'%')}</td>
+      <td class="c">${b.result?`<span class="res ${b.result}">${b.result}</span>`:'<span class="dim">open</span>'}</td>
+      <td class="n mut">${b.home_score!==null?`${b.away_score}-${b.home_score}`:''}</td>
+      <td class="n ${cls(b.pl||0)}">${b.result?sgn(b.pl)+'u':''}</td>
+      <td class="lock">${fdate(b.locked_at)} ${ftime(b.locked_at)}${b.graded_at?'<br>graded '+fdate(b.graded_at):''}</td></tr>`).join('')||'<tr><td colspan=11 class="empty">No bets yet.</td></tr>'}</tbody></table></div>`;
+  $('#ls').onchange=e=>{lSport=e.target.value;renderLog();}; $('#lr').onchange=e=>{lRes=e.target.value;renderLog();};
+}
+// ---------- backtest ----------
+function renderBt(){
+  $('#t-bt').innerHTML=SPORTS.map(sk=>{const m=D.sports[sk], bt=m.bt;
+    const head=`<div class="ph"><h2>${esc(m.label)} <span class="mut" style="font-weight:500">· sketchy band ${m.mkt==='spread'?m.band[0]+'–'+m.band[1]+' pts':(m.band[0]*100)+'–'+(m.band[1]*100)+' pts of win %'}</span></h2><span class="note">${bt?`${bt.games} games this season · DraftKings opening line · ratings from earlier games only`:'Runs at the next lock'}</span></div>`;
+    if(!bt) return `<div class="panel">${head}<div class="empty">No backtest yet.</div></div>`;
+    return `<div class="panel">${head}<table><thead><tr><th>Gap size</th><th class="n">Range</th><th class="n">Games</th><th class="n">Sketchy side W-L-P</th><th class="n">Units</th><th class="n">ROI</th></tr></thead><tbody>
+      ${bt.buckets.map((b,i)=>`<tr ${i===1||i===2?'style="background:#0d0f0d"':''}><td>${esc(b.name)}${i===1||i===2?' <span class="tag">bet</span>':''}</td><td class="n mut">${b.lo}–${b.hi>=99?'∞':b.hi}${m.mkt==='spread'?' pts':' pts'}</td><td class="n">${b.n}</td>
+        <td class="n">${b.w}-${b.l}${b.p?'-'+b.p:''}</td><td class="n ${cls(b.units)}">${sgn(b.units)}u</td><td class="n ${b.roi===null?'':cls(b.roi)}">${b.roi===null?'—':sgn(b.roi*100,1)+'%'}</td></tr>`).join('')}
+      <tr><td><b>Model bets (sketchy band)</b></td><td></td><td class="n">${bt.w+bt.l+bt.p}</td><td class="n"><b>${bt.w}-${bt.l}${bt.p?'-'+bt.p:''}</b></td><td class="n ${cls(bt.units)}"><b>${sgn(bt.units)}u</b></td><td class="n ${bt.roi===null?'':cls(bt.roi)}"><b>${bt.roi===null?'—':sgn(bt.roi*100,1)+'%'}</b></td></tr>
+      </tbody></table></div>`}).join('')+`<div class="foot">Each row shows how the side the market respected more (the "sketchy" side) did ATS at DraftKings' opening line, grouped by how far the line was from our line. At −110 you need 52.4% to break even.</div>`;
+}
+// ---------- ratings ----------
+let rSport=null, rQ='';
+function renderRt(){
+  if(!rSport) rSport=SPORTS[0];
+  const r=D.sports[rSport].ratings, rows=((r||{}).rows||[]).filter(x=>!rQ||x.team.toLowerCase().includes(rQ));
+  $('#t-rt').innerHTML=`<div class="panel"><div class="ph"><div class="pills">${SPORTS.map(k=>`<button class="pill ${k===rSport?'on':''}" data-r="${k}">${esc(D.sports[k].label)}</button>`).join('')}</div><input id="rq" class="srch" placeholder="search team" value="${esc(rQ)}"></div>
+    <div class="ph"><span class="note">Points (goals for NHL) better than an average team on a neutral field${r?' · home edge '+r.hca:''} · "our line" = rating difference + home edge</span></div>
+    ${rows.length?`<table><thead><tr><th>#</th><th>Team</th><th class="n">Rating</th><th class="n">Games</th></tr></thead><tbody>${rows.map((x,i)=>`<tr><td class="dim">${i+1}</td><td>${esc(x.team)}</td><td class="n ${cls(x.r)}"><b>${sgn(x.r,1)}</b></td><td class="n mut">${x.n}</td></tr>`).join('')}</tbody></table>`:'<div class="empty">Ratings appear after the first lock.</div>'}</div>`;
+  document.querySelectorAll('[data-r]').forEach(e=>e.onclick=()=>{rSport=e.dataset.r;renderRt();});
+  const q=$('#rq'); q.oninput=e=>{rQ=e.target.value.toLowerCase(); const p=e.target.selectionStart; renderRt(); const i=$('#rq'); i.focus(); i.setSelectionRange(p,p);};
+}
+function show(t){document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('on',b.dataset.t===t));
+  ['plays','profit','log','bt','rt'].forEach(k=>$('#t-'+k).classList.toggle('hidden',k!==t)); ({plays:renderPlays,profit:renderProfit,log:renderLog,bt:renderBt,rt:renderRt})[t]();}
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>show(b.dataset.t));
+renderTop(); renderPlays();
+$('#foot').innerHTML=`<b>Sketchy spot</b> = DraftKings' line respects a team more than its results do (a favorite laying more than our line, or a dog getting fewer points), by an amount inside the sport's band. Bigger gaps usually mean injury/news and are skipped. We bet the team the market respects more, flat 1u. Plays lock once (NFL Tue 9am, CFB Sun 9am, NBA/CBB/NHL daily 8am ET); line, price, close and result are saved once and never recalculated. CLV = points better than the closing line. For research; not financial advice.`;
+</script>
+</body>
+</html>
