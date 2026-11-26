@@ -1,0 +1,6131 @@
+{
+"bets": {
+"401873081|spread": {
+"id": "401873081|spread",
+"sport": "nfl",
+"mkt": "spread",
+"event_id": "401873081",
+"commence": "2026-11-26T13:00:00-05:00",
+"game": "Bears @ Lions",
+"home": "Lions",
+"away": "Bears",
+"side": "away",
+"team": "Bears",
+"line": -1.5,
+"price": -106.0,
+"dec": 1.9434,
+"ours": 2.8,
+"gap": 4.28,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401873080|spread": {
+"id": "401873080|spread",
+"sport": "nfl",
+"mkt": "spread",
+"event_id": "401873080",
+"commence": "2026-11-26T16:30:00-05:00",
+"game": "Eagles @ Cowboys",
+"home": "Cowboys",
+"away": "Eagles",
+"side": "home",
+"team": "Cowboys",
+"line": -8.5,
+"price": -111.0,
+"dec": 1.9009,
+"ours": -6.1,
+"gap": 2.43,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401873088|spread": {
+"id": "401873088|spread",
+"sport": "nfl",
+"mkt": "spread",
+"event_id": "401873088",
+"commence": "2026-11-29T13:00:00-05:00",
+"game": "Giants @ Colts",
+"home": "Colts",
+"away": "Giants",
+"side": "away",
+"team": "Giants",
+"line": -6.0,
+"price": -109.0,
+"dec": 1.91743,
+"ours": -2.0,
+"gap": 4.05,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401873085|spread": {
+"id": "401873085|spread",
+"sport": "nfl",
+"mkt": "spread",
+"event_id": "401873085",
+"commence": "2026-11-29T13:00:00-05:00",
+"game": "Ravens @ Texans",
+"home": "Texans",
+"away": "Ravens",
+"side": "away",
+"team": "Ravens",
+"line": 6.5,
+"price": -107.0,
+"dec": 1.93458,
+"ours": 8.9,
+"gap": 2.44,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401873092|spread": {
+"id": "401873092|spread",
+"sport": "nfl",
+"mkt": "spread",
+"event_id": "401873092",
+"commence": "2026-11-29T16:25:00-05:00",
+"game": "Commanders @ Cardinals",
+"home": "Cardinals",
+"away": "Commanders",
+"side": "away",
+"team": "Commanders",
+"line": -7.0,
+"price": -104.0,
+"dec": 1.96154,
+"ours": -2.8,
+"gap": 4.23,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401873086|spread": {
+"id": "401873086|spread",
+"sport": "nfl",
+"mkt": "spread",
+"event_id": "401873086",
+"commence": "2026-11-29T20:20:00-05:00",
+"game": "Raiders @ Browns",
+"home": "Browns",
+"away": "Raiders",
+"side": "home",
+"team": "Browns",
+"line": -4.5,
+"price": -105.0,
+"dec": 1.95238,
+"ours": -2.3,
+"gap": 2.25,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401866472|spread": {
+"id": "401866472|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401866472",
+"commence": "2026-11-27T12:00:00-05:00",
+"game": "Buffalo @ Akron",
+"home": "Akron",
+"away": "Buffalo",
+"side": "home",
+"team": "Akron",
+"line": 7.5,
+"price": -115.0,
+"dec": 1.86957,
+"ours": 12.3,
+"gap": 4.77,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401856759|spread": {
+"id": "401856759|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401856759",
+"commence": "2026-11-27T15:30:00-05:00",
+"game": "Florida @ Florida State",
+"home": "Florida State",
+"away": "Florida",
+"side": "away",
+"team": "Florida",
+"line": -6.0,
+"price": -112.0,
+"dec": 1.89286,
+"ours": 0.7,
+"gap": 6.68,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401864549|spread": {
+"id": "401864549|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401864549",
+"commence": "2026-11-27T15:30:00-05:00",
+"game": "North Dakota State @ San Jos\u00e9 State",
+"home": "San Jos\u00e9 State",
+"away": "North Dakota State",
+"side": "away",
+"team": "North Dakota State",
+"line": -8.5,
+"price": -108.0,
+"dec": 1.92593,
+"ours": -4.9,
+"gap": 3.65,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401856880|spread": {
+"id": "401856880|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401856880",
+"commence": "2026-11-27T21:00:00-05:00",
+"game": "West Virginia @ Utah",
+"home": "Utah",
+"away": "West Virginia",
+"side": "home",
+"team": "Utah",
+"line": -25.5,
+"price": -115.0,
+"dec": 1.86957,
+"ours": -19.8,
+"gap": 5.75,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401858314|spread": {
+"id": "401858314|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401858314",
+"commence": "2026-11-28T12:00:00-05:00",
+"game": "Notre Dame @ Syracuse",
+"home": "Syracuse",
+"away": "Notre Dame",
+"side": "away",
+"team": "Notre Dame",
+"line": -25.5,
+"price": -108.0,
+"dec": 1.92593,
+"ours": -17.0,
+"gap": 8.47,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401858311|spread": {
+"id": "401858311|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401858311",
+"commence": "2026-11-28T12:00:00-05:00",
+"game": "Boston College @ Miami",
+"home": "Miami",
+"away": "Boston College",
+"side": "home",
+"team": "Miami",
+"line": -25.5,
+"price": -105.0,
+"dec": 1.95238,
+"ours": -19.8,
+"gap": 5.7,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401856761|spread": {
+"id": "401856761|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401856761",
+"commence": "2026-11-28T12:00:00-05:00",
+"game": "Louisville @ Kentucky",
+"home": "Kentucky",
+"away": "Louisville",
+"side": "home",
+"team": "Kentucky",
+"line": 3.0,
+"price": -115.0,
+"dec": 1.86957,
+"ours": 7.4,
+"gap": 4.41,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401862842|spread": {
+"id": "401862842|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401862842",
+"commence": "2026-11-28T12:00:00-05:00",
+"game": "Navy @ Charlotte",
+"home": "Charlotte",
+"away": "Navy",
+"side": "away",
+"team": "Navy",
+"line": -16.5,
+"price": -115.0,
+"dec": 1.86957,
+"ours": -10.3,
+"gap": 6.24,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401856758|spread": {
+"id": "401856758|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401856758",
+"commence": "2026-11-28T12:45:00-05:00",
+"game": "LSU @ Arkansas",
+"home": "Arkansas",
+"away": "LSU",
+"side": "away",
+"team": "LSU",
+"line": -14.5,
+"price": -105.0,
+"dec": 1.95238,
+"ours": -5.6,
+"gap": 8.86,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401856875|spread": {
+"id": "401856875|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401856875",
+"commence": "2026-11-28T14:00:00-05:00",
+"game": "UCF @ Colorado",
+"home": "Colorado",
+"away": "UCF",
+"side": "home",
+"team": "Colorado",
+"line": -2.5,
+"price": -108.0,
+"dec": 1.92593,
+"ours": 1.0,
+"gap": 3.53,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401869947|spread": {
+"id": "401869947|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401869947",
+"commence": "2026-11-28T14:00:00-05:00",
+"game": "Coastal Carolina @ James Madison",
+"home": "James Madison",
+"away": "Coastal Carolina",
+"side": "home",
+"team": "James Madison",
+"line": -17.5,
+"price": -102.0,
+"dec": 1.98039,
+"ours": -13.8,
+"gap": 3.67,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401871063|spread": {
+"id": "401871063|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401871063",
+"commence": "2026-11-28T14:00:00-05:00",
+"game": "Liberty @ Missouri State",
+"home": "Missouri State",
+"away": "Liberty",
+"side": "away",
+"team": "Liberty",
+"line": -17.5,
+"price": -110.0,
+"dec": 1.90909,
+"ours": -11.9,
+"gap": 5.62,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401871083|spread": {
+"id": "401871083|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401871083",
+"commence": "2026-11-28T14:00:00-05:00",
+"game": "New Mexico State @ Middle Tennessee",
+"home": "Middle Tennessee",
+"away": "New Mexico State",
+"side": "away",
+"team": "New Mexico State",
+"line": 3.0,
+"price": -102.0,
+"dec": 1.98039,
+"ours": 7.4,
+"gap": 4.38,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401856764|spread": {
+"id": "401856764|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401856764",
+"commence": "2026-11-28T15:00:00-05:00",
+"game": "South Carolina @ Clemson",
+"home": "Clemson",
+"away": "South Carolina",
+"side": "away",
+"team": "South Carolina",
+"line": -6.0,
+"price": -110.0,
+"dec": 1.90909,
+"ours": 3.1,
+"gap": 9.09,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401858317|spread": {
+"id": "401858317|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401858317",
+"commence": "2026-11-28T15:00:00-05:00",
+"game": "Virginia @ Virginia Tech",
+"home": "Virginia Tech",
+"away": "Virginia",
+"side": "home",
+"team": "Virginia Tech",
+"line": -3.0,
+"price": -110.0,
+"dec": 1.90909,
+"ours": 3.3,
+"gap": 6.26,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401856760|spread": {
+"id": "401856760|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401856760",
+"commence": "2026-11-28T15:30:00-05:00",
+"game": "Georgia Tech @ Georgia",
+"home": "Georgia",
+"away": "Georgia Tech",
+"side": "home",
+"team": "Georgia",
+"line": -35.5,
+"price": -110.0,
+"dec": 1.90909,
+"ours": -27.0,
+"gap": 8.48,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401858312|spread": {
+"id": "401858312|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401858312",
+"commence": "2026-11-28T15:30:00-05:00",
+"game": "Duke @ Wake Forest",
+"home": "Wake Forest",
+"away": "Duke",
+"side": "home",
+"team": "Wake Forest",
+"line": -14.5,
+"price": -108.0,
+"dec": 1.92593,
+"ours": -10.1,
+"gap": 4.36,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401858316|spread": {
+"id": "401858316|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401858316",
+"commence": "2026-11-28T15:30:00-05:00",
+"game": "SMU @ Stanford",
+"home": "Stanford",
+"away": "SMU",
+"side": "away",
+"team": "SMU",
+"line": -7.5,
+"price": -108.0,
+"dec": 1.92593,
+"ours": -2.8,
+"gap": 4.7,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401866475|spread": {
+"id": "401866475|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401866475",
+"commence": "2026-11-28T15:30:00-05:00",
+"game": "Massachusetts @ Bowling Green",
+"home": "Bowling Green",
+"away": "Massachusetts",
+"side": "away",
+"team": "Massachusetts",
+"line": 3.0,
+"price": -105.0,
+"dec": 1.95238,
+"ours": 7.2,
+"gap": 4.25,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401862843|spread": {
+"id": "401862843|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401862843",
+"commence": "2026-11-28T16:00:00-05:00",
+"game": "UAB @ North Texas",
+"home": "North Texas",
+"away": "UAB",
+"side": "away",
+"team": "UAB",
+"line": 3.0,
+"price": -110.0,
+"dec": 1.90909,
+"ours": 10.1,
+"gap": 7.11,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401860926|spread": {
+"id": "401860926|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401860926",
+"commence": "2026-11-28T18:00:00-05:00",
+"game": "Boise State @ Colorado State",
+"home": "Colorado State",
+"away": "Boise State",
+"side": "away",
+"team": "Boise State",
+"line": -21.0,
+"price": -115.0,
+"dec": 1.86957,
+"ours": -15.7,
+"gap": 5.3,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401860929|spread": {
+"id": "401860929|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401860929",
+"commence": "2026-11-28T18:30:00-05:00",
+"game": "San Diego State @ Washington State",
+"home": "Washington State",
+"away": "San Diego State",
+"side": "home",
+"team": "Washington State",
+"line": -2.5,
+"price": -118.0,
+"dec": 1.84746,
+"ours": 1.3,
+"gap": 3.76,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401858538|spread": {
+"id": "401858538|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401858538",
+"commence": "2026-11-28T19:00:00-05:00",
+"game": "Purdue @ Indiana",
+"home": "Indiana",
+"away": "Purdue",
+"side": "home",
+"team": "Indiana",
+"line": -23.5,
+"price": -108.0,
+"dec": 1.92593,
+"ours": -19.2,
+"gap": 4.34,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401858541|spread": {
+"id": "401858541|spread",
+"sport": "cfb",
+"mkt": "spread",
+"event_id": "401858541",
+"commence": "2026-11-28T19:30:00-05:00",
+"game": "Washington @ Oregon",
+"home": "Oregon",
+"away": "Washington",
+"side": "home",
+"team": "Oregon",
+"line": -14.0,
+"price": -108.0,
+"dec": 1.92593,
+"ours": -10.1,
+"gap": 3.88,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401929287|spread": {
+"id": "401929287|spread",
+"sport": "cbb",
+"mkt": "spread",
+"event_id": "401929287",
+"commence": "2026-11-25T21:29:00-05:00",
+"game": "Wake Forest @ Mississippi State",
+"home": "Mississippi State",
+"away": "Wake Forest",
+"side": "home",
+"team": "Mississippi State",
+"line": -3.5,
+"price": -112.0,
+"dec": 1.89286,
+"ours": 0.4,
+"gap": 3.87,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401921671|spread": {
+"id": "401921671|spread",
+"sport": "cbb",
+"mkt": "spread",
+"event_id": "401921671",
+"commence": "2026-11-25T21:30:00-05:00",
+"game": "Grand Canyon @ Colorado",
+"home": "Colorado",
+"away": "Grand Canyon",
+"side": "away",
+"team": "Grand Canyon",
+"line": -9.5,
+"price": -115.0,
+"dec": 1.86957,
+"ours": -4.6,
+"gap": 4.94,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401929005|spread": {
+"id": "401929005|spread",
+"sport": "cbb",
+"mkt": "spread",
+"event_id": "401929005",
+"commence": "2026-11-25T23:59:00-05:00",
+"game": "Incarnate Word @ Hawai'i",
+"home": "Hawai'i",
+"away": "Incarnate Word",
+"side": "home",
+"team": "Hawai'i",
+"line": -16.5,
+"price": -115.0,
+"dec": 1.86957,
+"ours": -10.7,
+"gap": 5.8,
+"mkt_p": null,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+},
+"401892792|ml": {
+"id": "401892792|ml",
+"sport": "nhl",
+"mkt": "ml",
+"event_id": "401892792",
+"commence": "2026-11-25T21:30:00-05:00",
+"game": "Canadiens @ Avalanche",
+"home": "Avalanche",
+"away": "Canadiens",
+"side": "away",
+"team": "Canadiens",
+"line": null,
+"price": 100.0,
+"dec": 2.0,
+"ours": 0.4059,
+"gap": 0.0724,
+"mkt_p": 0.4783,
+"units": 1.0,
+"locked_at": "2026-11-25T21:12:10.254353-05:00",
+"lock_key": "first-run 2026-11-25T21:12:10.254353-05:00",
+"close_line": null,
+"close_price": null,
+"clv": null,
+"closed_at": null,
+"result": null,
+"pl": null,
+"home_score": null,
+"away_score": null,
+"graded_at": null
+}
+},
+"closes": {
+"401873081|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-2.5,
+-110.0,
+-110.0
+],
+"cur": [
+1.5,
+-113.0,
+-106.0
+]
+},
+"ml": {
+"open": [
+-135.0,
+114.0
+],
+"cur": [
+101.0,
+-119.0
+]
+}
+}
+},
+"401873080|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-1.5,
+-105.0,
+-115.0
+],
+"cur": [
+-8.5,
+-111.0,
+-108.0
+]
+},
+"ml": {
+"open": [
+-120.0,
+100.0
+],
+"cur": [
+-480.0,
+370.0
+]
+}
+}
+},
+"401873088|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-2.5,
+-110.0,
+-110.0
+],
+"cur": [
+6.0,
+-110.0,
+-109.0
+]
+},
+"ml": {
+"open": [
+-135.0,
+114.0
+],
+"cur": [
+235.0,
+-286.0
+]
+}
+}
+},
+"401873085|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-1.5,
+-105.0,
+-115.0
+],
+"cur": [
+-6.5,
+-112.0,
+-107.0
+]
+},
+"ml": {
+"open": [
+-118.0,
+-102.0
+],
+"cur": [
+-333.0,
+267.0
+]
+}
+}
+},
+"401873092|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+4.5,
+-110.0,
+-110.0
+],
+"cur": [
+7.0,
+-116.0,
+-104.0
+]
+},
+"ml": {
+"open": [
+180.0,
+-218.0
+],
+"cur": [
+262.0,
+-324.0
+]
+}
+}
+},
+"401873086|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-2.5,
+-105.0,
+-115.0
+],
+"cur": [
+-4.5,
+-105.0,
+-114.0
+]
+},
+"ml": {
+"open": [
+-130.0,
+110.0
+],
+"cur": [
+-244.0,
+201.0
+]
+}
+}
+},
+"401866472|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+10.0,
+-110.0,
+-110.0
+],
+"cur": [
+7.5,
+-115.0,
+-105.0
+]
+},
+"ml": {
+"open": [
+295.0,
+-375.0
+],
+"cur": [
+245.0,
+-305.0
+]
+}
+}
+},
+"401856759|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+4.5,
+-110.0,
+-110.0
+],
+"cur": [
+6.0,
+-108.0,
+-112.0
+]
+},
+"ml": {
+"open": [
+180.0,
+-218.0
+],
+"cur": [
+190.0,
+-230.0
+]
+}
+}
+},
+"401864549|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+11.5,
+-110.0,
+-110.0
+],
+"cur": [
+8.5,
+-112.0,
+-108.0
+]
+},
+"ml": {
+"open": [
+410.0,
+-550.0
+],
+"cur": [
+275.0,
+-345.0
+]
+}
+}
+},
+"401856880|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-20.5,
+-110.0,
+-110.0
+],
+"cur": [
+-25.5,
+-115.0,
+-105.0
+]
+},
+"ml": {
+"open": [
+-1350.0,
+800.0
+],
+"cur": [
+-2800.0,
+1300.0
+]
+}
+}
+},
+"401858314|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+21.0,
+-110.0,
+-110.0
+],
+"cur": [
+25.5,
+-112.0,
+-108.0
+]
+},
+"ml": {
+"open": [
+800.0,
+-1350.0
+],
+"cur": [
+1300.0,
+-2800.0
+]
+}
+}
+},
+"401858311|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-26.5,
+-110.0,
+-110.0
+],
+"cur": [
+-25.5,
+-105.0,
+-115.0
+]
+},
+"ml": {
+"open": [
+-3600.0,
+1500.0
+],
+"cur": [
+-2800.0,
+1300.0
+]
+}
+}
+},
+"401856761|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-1.5,
+-110.0,
+-110.0
+],
+"cur": [
+3.0,
+-115.0,
+-105.0
+]
+},
+"ml": {
+"open": [
+-118.0,
+-102.0
+],
+"cur": [
+120.0,
+-142.0
+]
+}
+}
+},
+"401862842|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+16.5,
+-110.0,
+-110.0
+],
+"cur": [
+16.5,
+-105.0,
+-115.0
+]
+},
+"ml": {
+"open": [
+600.0,
+-900.0
+],
+"cur": [
+575.0,
+-850.0
+]
+}
+}
+},
+"401856758|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+13.5,
+-110.0,
+-110.0
+],
+"cur": [
+14.5,
+-115.0,
+-105.0
+]
+},
+"ml": {
+"open": [
+455.0,
+-625.0
+],
+"cur": [
+455.0,
+-625.0
+]
+}
+}
+},
+"401856875|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-1.5,
+-105.0,
+-115.0
+],
+"cur": [
+-2.5,
+-108.0,
+-112.0
+]
+},
+"ml": {
+"open": [
+-115.0,
+-105.0
+],
+"cur": [
+-125.0,
+105.0
+]
+}
+}
+},
+"401869947|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-13.5,
+-110.0,
+-110.0
+],
+"cur": [
+-17.5,
+-102.0,
+-118.0
+]
+},
+"ml": {
+"open": [
+-700.0,
+500.0
+],
+"cur": [
+-850.0,
+575.0
+]
+}
+}
+},
+"401871063|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+14.5,
+-110.0,
+-110.0
+],
+"cur": [
+17.5,
+-110.0,
+-110.0
+]
+},
+"ml": {
+"open": [
+425.0,
+-575.0
+],
+"cur": [
+600.0,
+-900.0
+]
+}
+}
+},
+"401871083|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-3.5,
+-110.0,
+-110.0
+],
+"cur": [
+-3.0,
+-118.0,
+-102.0
+]
+},
+"ml": {
+"open": [
+-175.0,
+145.0
+],
+"cur": [
+-162.0,
+136.0
+]
+}
+}
+},
+"401856764|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-3.0,
+-110.0,
+-110.0
+],
+"cur": [
+6.0,
+-110.0,
+-110.0
+]
+},
+"ml": {
+"open": [
+-155.0,
+130.0
+],
+"cur": [
+190.0,
+-230.0
+]
+}
+}
+},
+"401858317|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-1.5,
+-110.0,
+-110.0
+],
+"cur": [
+-3.0,
+-110.0,
+-110.0
+]
+},
+"ml": {
+"open": [
+-125.0,
+105.0
+],
+"cur": [
+-155.0,
+130.0
+]
+}
+}
+},
+"401856760|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-35.5,
+-110.0,
+-110.0
+],
+"cur": [
+-35.5,
+-110.0,
+-110.0
+]
+},
+"ml": {
+"open": [
+-50000.0,
+4000.0
+],
+"cur": [
+-8000.0,
+2200.0
+]
+}
+}
+},
+"401858312|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-10.5,
+-110.0,
+-110.0
+],
+"cur": [
+-14.5,
+-108.0,
+-112.0
+]
+},
+"ml": {
+"open": [
+-355.0,
+280.0
+],
+"cur": [
+-650.0,
+470.0
+]
+}
+}
+},
+"401858316|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+10.0,
+-110.0,
+-110.0
+],
+"cur": [
+7.5,
+-112.0,
+-108.0
+]
+},
+"ml": {
+"open": [
+270.0,
+-340.0
+],
+"cur": [
+240.0,
+-298.0
+]
+}
+}
+},
+"401866475|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-1.5,
+-110.0,
+-110.0
+],
+"cur": [
+-3.0,
+-115.0,
+-105.0
+]
+},
+"ml": {
+"open": [
+-118.0,
+-102.0
+],
+"cur": [
+-162.0,
+136.0
+]
+}
+}
+},
+"401862843|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-4.5,
+-110.0,
+-110.0
+],
+"cur": [
+-3.0,
+-110.0,
+-110.0
+]
+},
+"ml": {
+"open": [
+-180.0,
+150.0
+],
+"cur": [
+-155.0,
+130.0
+]
+}
+}
+},
+"401860926|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+21.0,
+-110.0,
+-110.0
+],
+"cur": [
+21.0,
+-105.0,
+-115.0
+]
+},
+"ml": {
+"open": [
+1000.0,
+-1800.0
+],
+"cur": [
+1000.0,
+-1800.0
+]
+}
+}
+},
+"401860929|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+3.0,
+-110.0,
+-110.0
+],
+"cur": [
+-2.5,
+-118.0,
+-102.0
+]
+},
+"ml": {
+"open": [
+124.0,
+-148.0
+],
+"cur": [
+-142.0,
+120.0
+]
+}
+}
+},
+"401858538|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-22.5,
+-110.0,
+-110.0
+],
+"cur": [
+-23.5,
+-108.0,
+-112.0
+]
+},
+"ml": {
+"open": [
+-1200.0,
+750.0
+],
+"cur": [
+-2100.0,
+1100.0
+]
+}
+}
+},
+"401858541|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-15.5,
+-110.0,
+-110.0
+],
+"cur": [
+-14.0,
+-108.0,
+-112.0
+]
+},
+"ml": {
+"open": [
+-625.0,
+455.0
+],
+"cur": [
+-625.0,
+455.0
+]
+}
+}
+},
+"401929287|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-4.5,
+-102.0,
+-118.0
+],
+"cur": [
+-3.5,
+-112.0,
+-108.0
+]
+},
+"ml": {
+"open": [
+-205.0,
+170.0
+],
+"cur": [
+-198.0,
+164.0
+]
+}
+}
+},
+"401921671|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+9.5,
+-105.0,
+-115.0
+],
+"cur": [
+9.5,
+-105.0,
+-115.0
+]
+},
+"ml": {
+"open": [
+390.0,
+-520.0
+],
+"cur": [
+380.0,
+-500.0
+]
+}
+}
+},
+"401929005|spread": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-16.5,
+-115.0,
+-105.0
+],
+"cur": [
+-16.5,
+-115.0,
+-105.0
+]
+},
+"ml": {
+"open": [
+-1650.0,
+950.0
+],
+"cur": [
+-2100.0,
+1100.0
+]
+}
+}
+},
+"401892792|ml": {
+"t": "2026-11-25T21:12:10.254353-05:00",
+"odds": {
+"spread": {
+"open": [
+-1.5,
+180.0,
+-218.0
+],
+"cur": [
+-1.5,
+185.0,
+-225.0
+]
+},
+"ml": {
+"open": [
+-135.0,
+114.0
+],
+"cur": [
+-120.0,
+100.0
+]
+}
+}
+}
+},
+"locks": {
+"nfl": "2026-11-24T09:00:00-05:00",
+"cfb": "2026-11-22T09:00:00-05:00",
+"nba": "2026-11-25T08:00:00-05:00",
+"cbb": "2026-11-25T08:00:00-05:00",
+"nhl": "2026-11-25T08:00:00-05:00"
+},
+"boards": {
+"nfl": {
+"at": "2026-11-25T21:12:10.254353-05:00",
+"rows": [
+{
+"id": "401873081",
+"game": "Bears @ Lions",
+"commence": "2026-11-26T13:00:00-05:00",
+"status": "SKETCHY",
+"team": "Bears",
+"line": -1.5,
+"price": -106.0,
+"ours": 2.8,
+"gap": 4.28,
+"mkt_p": null
+},
+{
+"id": "401873080",
+"game": "Eagles @ Cowboys",
+"commence": "2026-11-26T16:30:00-05:00",
+"status": "SKETCHY",
+"team": "Cowboys",
+"line": -8.5,
+"price": -111.0,
+"ours": -6.1,
+"gap": 2.43,
+"mkt_p": null
+},
+{
+"id": "401873082",
+"game": "Chiefs @ Bills",
+"commence": "2026-11-26T20:20:00-05:00",
+"status": "normal line",
+"team": "Chiefs",
+"line": 3.0,
+"price": -120.0,
+"ours": 3.2,
+"gap": 0.23,
+"mkt_p": null
+},
+{
+"id": "401873083",
+"game": "Broncos @ Steelers",
+"commence": "2026-11-27T15:00:00-05:00",
+"status": "normal line",
+"team": "Broncos",
+"line": -3.5,
+"price": -113.0,
+"ours": -2.1,
+"gap": 1.36,
+"mkt_p": null
+},
+{
+"id": "401873087",
+"game": "Saints @ Bengals",
+"commence": "2026-11-29T13:00:00-05:00",
+"status": "normal line",
+"team": "Bengals",
+"line": -10.0,
+"price": -107.0,
+"ours": -9.5,
+"gap": 0.49,
+"mkt_p": null
+},
+{
+"id": "401873088",
+"game": "Giants @ Colts",
+"commence": "2026-11-29T13:00:00-05:00",
+"status": "SKETCHY",
+"team": "Giants",
+"line": -6.0,
+"price": -109.0,
+"ours": -2.0,
+"gap": 4.05,
+"mkt_p": null
+},
+{
+"id": "401873089",
+"game": "Jets @ Dolphins",
+"commence": "2026-11-29T13:00:00-05:00",
+"status": "too far off - likely injury/news",
+"team": "Jets",
+"line": -4.5,
+"price": -105.0,
+"ours": 2.3,
+"gap": 6.79,
+"mkt_p": null
+},
+{
+"id": "401873084",
+"game": "Falcons @ Vikings",
+"commence": "2026-11-29T13:00:00-05:00",
+"status": "normal line",
+"team": "Vikings",
+"line": -7.0,
+"price": 100.0,
+"ours": -6.5,
+"gap": 0.48,
+"mkt_p": null
+},
+{
+"id": "401873090",
+"game": "Titans @ Jaguars",
+"commence": "2026-11-29T13:00:00-05:00",
+"status": "normal line",
+"team": "Titans",
+"line": 14.5,
+"price": -116.0,
+"ours": 15.4,
+"gap": 0.92,
+"mkt_p": null
+},
+{
+"id": "401873085",
+"game": "Ravens @ Texans",
+"commence": "2026-11-29T13:00:00-05:00",
+"status": "SKETCHY",
+"team": "Ravens",
+"line": 6.5,
+"price": -107.0,
+"ours": 8.9,
+"gap": 2.44,
+"mkt_p": null
+},
+{
+"id": "401873093",
+"game": "Patriots @ Chargers",
+"commence": "2026-11-29T16:05:00-05:00",
+"status": "normal line",
+"team": "Chargers",
+"line": 1.5,
+"price": -118.0,
+"ours": 3.0,
+"gap": 1.52,
+"mkt_p": null
+},
+{
+"id": "401873092",
+"game": "Commanders @ Cardinals",
+"commence": "2026-11-29T16:25:00-05:00",
+"status": "SKETCHY",
+"team": "Commanders",
+"line": -7.0,
+"price": -104.0,
+"ours": -2.8,
+"gap": 4.23,
+"mkt_p": null
+},
+{
+"id": "401873091",
+"game": "Seahawks @ 49ers",
+"commence": "2026-11-29T16:25:00-05:00",
+"status": "normal line",
+"team": "Seahawks",
+"line": 2.5,
+"price": 100.0,
+"ours": 4.4,
+"gap": 1.88,
+"mkt_p": null
+},
+{
+"id": "401873086",
+"game": "Raiders @ Browns",
+"commence": "2026-11-29T20:20:00-05:00",
+"status": "SKETCHY",
+"team": "Browns",
+"line": -4.5,
+"price": -105.0,
+"ours": -2.3,
+"gap": 2.25,
+"mkt_p": null
+},
+{
+"id": "401873094",
+"game": "Panthers @ Buccaneers",
+"commence": "2026-11-30T20:15:00-05:00",
+"status": "normal line",
+"team": "Panthers",
+"line": 3.0,
+"price": -112.0,
+"ours": 4.5,
+"gap": 1.52,
+"mkt_p": null
+}
+]
+},
+"cfb": {
+"at": "2026-11-25T21:12:10.254353-05:00",
+"rows": [
+{
+"id": "401856879",
+"game": "TCU @ Texas Tech",
+"commence": "2026-11-26T20:00:00-05:00",
+"status": "normal line",
+"team": "Texas Tech",
+"line": -15.5,
+"price": -110.0,
+"ours": -12.1,
+"gap": 3.36,
+"mkt_p": null
+},
+{
+"id": "401858536",
+"game": "Nebraska @ Iowa",
+"commence": "2026-11-27T12:00:00-05:00",
+"status": "normal line",
+"team": "Nebraska",
+"line": 4.5,
+"price": -110.0,
+"ours": 7.0,
+"gap": 2.47,
+"mkt_p": null
+},
+{
+"id": "401856762",
+"game": "Mississippi State @ Ole Miss",
+"commence": "2026-11-27T12:00:00-05:00",
+"status": "normal line",
+"team": "Ole Miss",
+"line": -18.5,
+"price": -112.0,
+"ours": -16.1,
+"gap": 2.41,
+"mkt_p": null
+},
+{
+"id": "401862840",
+"game": "Tulsa @ UTSA",
+"commence": "2026-11-27T12:00:00-05:00",
+"status": "normal line",
+"team": "Tulsa",
+"line": 1.5,
+"price": -115.0,
+"ours": 2.4,
+"gap": 0.86,
+"mkt_p": null
+},
+{
+"id": "401866472",
+"game": "Buffalo @ Akron",
+"commence": "2026-11-27T12:00:00-05:00",
+"status": "SKETCHY",
+"team": "Akron",
+"line": 7.5,
+"price": -115.0,
+"ours": 12.3,
+"gap": 4.77,
+"mkt_p": null
+},
+{
+"id": "401866473",
+"game": "Toledo @ Ohio",
+"commence": "2026-11-27T12:00:00-05:00",
+"status": "normal line",
+"team": "Toledo",
+"line": -3.0,
+"price": -108.0,
+"ours": -2.9,
+"gap": 0.05,
+"mkt_p": null
+},
+{
+"id": "401869930",
+"game": "App State @ South Alabama",
+"commence": "2026-11-27T15:00:00-05:00",
+"status": "normal line",
+"team": "App State",
+"line": 3.5,
+"price": -115.0,
+"ours": 5.4,
+"gap": 1.93,
+"mkt_p": null
+},
+{
+"id": "401856759",
+"game": "Florida @ Florida State",
+"commence": "2026-11-27T15:30:00-05:00",
+"status": "SKETCHY",
+"team": "Florida",
+"line": -6.0,
+"price": -112.0,
+"ours": 0.7,
+"gap": 6.68,
+"mkt_p": null
+},
+{
+"id": "401862838",
+"game": "Temple @ Memphis",
+"commence": "2026-11-27T15:30:00-05:00",
+"status": "normal line",
+"team": "Memphis",
+"line": -18.5,
+"price": -108.0,
+"ours": -17.4,
+"gap": 1.12,
+"mkt_p": null
+},
+{
+"id": "401864549",
+"game": "North Dakota State @ San Jos\u00e9 State",
+"commence": "2026-11-27T15:30:00-05:00",
+"status": "SKETCHY",
+"team": "North Dakota State",
+"line": -8.5,
+"price": -108.0,
+"ours": -4.9,
+"gap": 3.65,
+"mkt_p": null
+},
+{
+"id": "401864546",
+"game": "Air Force @ New Mexico",
+"commence": "2026-11-27T16:30:00-05:00",
+"status": "normal line",
+"team": "New Mexico",
+"line": -6.5,
+"price": -115.0,
+"ours": -6.1,
+"gap": 0.42,
+"mkt_p": null
+},
+{
+"id": "401856756",
+"game": "Texas @ Texas A&M",
+"commence": "2026-11-27T19:30:00-05:00",
+"status": "normal line",
+"team": "Texas",
+"line": -10.5,
+"price": -115.0,
+"ours": -8.5,
+"gap": 2.01,
+"mkt_p": null
+},
+{
+"id": "401858544",
+"game": "Minnesota @ Wisconsin",
+"commence": "2026-11-27T19:30:00-05:00",
+"status": "normal line",
+"team": "Minnesota",
+"line": 7.5,
+"price": -108.0,
+"ours": 10.9,
+"gap": 3.4,
+"mkt_p": null
+},
+{
+"id": "401856880",
+"game": "West Virginia @ Utah",
+"commence": "2026-11-27T21:00:00-05:00",
+"status": "SKETCHY",
+"team": "Utah",
+"line": -25.5,
+"price": -115.0,
+"ours": -19.8,
+"gap": 5.75,
+"mkt_p": null
+},
+{
+"id": "401858314",
+"game": "Notre Dame @ Syracuse",
+"commence": "2026-11-28T12:00:00-05:00",
+"status": "SKETCHY",
+"team": "Notre Dame",
+"line": -25.5,
+"price": -108.0,
+"ours": -17.0,
+"gap": 8.47,
+"mkt_p": null
+},
+{
+"id": "401858311",
+"game": "Boston College @ Miami",
+"commence": "2026-11-28T12:00:00-05:00",
+"status": "SKETCHY",
+"team": "Miami",
+"line": -25.5,
+"price": -105.0,
+"ours": -19.8,
+"gap": 5.7,
+"mkt_p": null
+},
+{
+"id": "401856761",
+"game": "Louisville @ Kentucky",
+"commence": "2026-11-28T12:00:00-05:00",
+"status": "SKETCHY",
+"team": "Kentucky",
+"line": 3.0,
+"price": -115.0,
+"ours": 7.4,
+"gap": 4.41,
+"mkt_p": null
+},
+{
+"id": "401858540",
+"game": "Michigan @ Ohio State",
+"commence": "2026-11-28T12:00:00-05:00",
+"status": "normal line",
+"team": "Michigan",
+"line": 10.5,
+"price": -112.0,
+"ours": 12.6,
+"gap": 2.1,
+"mkt_p": null
+},
+{
+"id": "401858313",
+"game": "NC State @ North Carolina",
+"commence": "2026-11-28T12:00:00-05:00",
+"status": "normal line",
+"team": "North Carolina",
+"line": -5.5,
+"price": -112.0,
+"ours": -4.4,
+"gap": 1.13,
+"mkt_p": null
+},
+{
+"id": "401861969",
+"game": "UConn @ Wyoming",
+"commence": "2026-11-28T12:00:00-05:00",
+"status": "normal line",
+"team": "UConn",
+"line": -3.0,
+"price": -115.0,
+"ours": -0.4,
+"gap": 2.64,
+"mkt_p": null
+},
+{
+"id": "401862842",
+"game": "Navy @ Charlotte",
+"commence": "2026-11-28T12:00:00-05:00",
+"status": "SKETCHY",
+"team": "Navy",
+"line": -16.5,
+"price": -115.0,
+"ours": -10.3,
+"gap": 6.24,
+"mkt_p": null
+},
+{
+"id": "401866474",
+"game": "Central Michigan @ Ball State",
+"commence": "2026-11-28T12:00:00-05:00",
+"status": "normal line",
+"team": "Ball State",
+"line": 4.0,
+"price": -110.0,
+"ours": 5.1,
+"gap": 1.07,
+"mkt_p": null
+},
+{
+"id": "401869954",
+"game": "Louisiana Tech @ Georgia Southern",
+"commence": "2026-11-28T12:00:00-05:00",
+"status": "normal line",
+"team": "Georgia Southern",
+"line": -2.5,
+"price": -110.0,
+"ours": -0.2,
+"gap": 2.28,
+"mkt_p": null
+},
+{
+"id": "401858537",
+"game": "Illinois @ Northwestern",
+"commence": "2026-11-28T12:30:00-05:00",
+"status": "normal line",
+"team": "Illinois",
+"line": 2.5,
+"price": -102.0,
+"ours": 5.0,
+"gap": 2.48,
+"mkt_p": null
+},
+{
+"id": "401856758",
+"game": "LSU @ Arkansas",
+"commence": "2026-11-28T12:45:00-05:00",
+"status": "SKETCHY",
+"team": "LSU",
+"line": -14.5,
+"price": -105.0,
+"ours": -5.6,
+"gap": 8.86,
+"mkt_p": null
+},
+{
+"id": "401862837",
+"game": "Florida Atlantic @ East Carolina",
+"commence": "2026-11-28T13:00:00-05:00",
+"status": "normal line",
+"team": "Florida Atlantic",
+"line": 1.5,
+"price": -112.0,
+"ours": 2.4,
+"gap": 0.92,
+"mkt_p": null
+},
+{
+"id": "401870804",
+"game": "Kennesaw State @ Western Kentucky",
+"commence": "2026-11-28T13:00:00-05:00",
+"status": "normal line",
+"team": "Kennesaw State",
+"line": -3.5,
+"price": -108.0,
+"ours": -1.7,
+"gap": 1.79,
+"mkt_p": null
+},
+{
+"id": "401871102",
+"game": "Marshall @ UL Monroe",
+"commence": "2026-11-28T13:00:00-05:00",
+"status": "normal line",
+"team": "Marshall",
+"line": -5.5,
+"price": -105.0,
+"ours": -3.5,
+"gap": 2.04,
+"mkt_p": null
+},
+{
+"id": "401871103",
+"game": "Southern Miss @ Old Dominion",
+"commence": "2026-11-28T13:00:00-05:00",
+"status": "normal line",
+"team": "Southern Miss",
+"line": 6.0,
+"price": -108.0,
+"ours": 7.4,
+"gap": 1.41,
+"mkt_p": null
+},
+{
+"id": "401856875",
+"game": "UCF @ Colorado",
+"commence": "2026-11-28T14:00:00-05:00",
+"status": "SKETCHY",
+"team": "Colorado",
+"line": -2.5,
+"price": -108.0,
+"ours": 1.0,
+"gap": 3.53,
+"mkt_p": null
+},
+{
+"id": "401856878",
+"game": "Kansas State @ Iowa State",
+"commence": "2026-11-28T14:00:00-05:00",
+"status": "normal line",
+"team": "Kansas State",
+"line": 3.5,
+"price": -110.0,
+"ours": 5.0,
+"gap": 1.52,
+"mkt_p": null
+},
+{
+"id": "401862841",
+"game": "Army @ Rice",
+"commence": "2026-11-28T14:00:00-05:00",
+"status": "normal line",
+"team": "Army",
+"line": -6.0,
+"price": -108.0,
+"ours": -5.6,
+"gap": 0.37,
+"mkt_p": null
+},
+{
+"id": "401869947",
+"game": "Coastal Carolina @ James Madison",
+"commence": "2026-11-28T14:00:00-05:00",
+"status": "SKETCHY",
+"team": "James Madison",
+"line": -17.5,
+"price": -102.0,
+"ours": -13.8,
+"gap": 3.67,
+"mkt_p": null
+},
+{
+"id": "401869959",
+"game": "Louisiana @ Georgia State",
+"commence": "2026-11-28T14:00:00-05:00",
+"status": "normal line",
+"team": "Louisiana",
+"line": -5.5,
+"price": -105.0,
+"ours": -3.3,
+"gap": 2.17,
+"mkt_p": null
+},
+{
+"id": "401871063",
+"game": "Liberty @ Missouri State",
+"commence": "2026-11-28T14:00:00-05:00",
+"status": "SKETCHY",
+"team": "Liberty",
+"line": -17.5,
+"price": -110.0,
+"ours": -11.9,
+"gap": 5.62,
+"mkt_p": null
+},
+{
+"id": "401871082",
+"game": "Sam Houston @ Florida International",
+"commence": "2026-11-28T14:00:00-05:00",
+"status": "normal line",
+"team": "Sam Houston",
+"line": 11.5,
+"price": -110.0,
+"ours": 12.8,
+"gap": 1.32,
+"mkt_p": null
+},
+{
+"id": "401871083",
+"game": "New Mexico State @ Middle Tennessee",
+"commence": "2026-11-28T14:00:00-05:00",
+"status": "SKETCHY",
+"team": "New Mexico State",
+"line": 3.0,
+"price": -102.0,
+"ours": 7.4,
+"gap": 4.38,
+"mkt_p": null
+},
+{
+"id": "401856764",
+"game": "South Carolina @ Clemson",
+"commence": "2026-11-28T15:00:00-05:00",
+"status": "SKETCHY",
+"team": "South Carolina",
+"line": -6.0,
+"price": -110.0,
+"ours": 3.1,
+"gap": 9.09,
+"mkt_p": null
+},
+{
+"id": "401858317",
+"game": "Virginia @ Virginia Tech",
+"commence": "2026-11-28T15:00:00-05:00",
+"status": "SKETCHY",
+"team": "Virginia Tech",
+"line": -3.0,
+"price": -110.0,
+"ours": 3.3,
+"gap": 6.26,
+"mkt_p": null
+},
+{
+"id": "401869939",
+"game": "Troy @ Arkansas State",
+"commence": "2026-11-28T15:00:00-05:00",
+"status": "normal line",
+"team": "Troy",
+"line": 3.5,
+"price": -108.0,
+"ours": 4.5,
+"gap": 0.95,
+"mkt_p": null
+},
+{
+"id": "401856760",
+"game": "Georgia Tech @ Georgia",
+"commence": "2026-11-28T15:30:00-05:00",
+"status": "SKETCHY",
+"team": "Georgia",
+"line": -35.5,
+"price": -110.0,
+"ours": -27.0,
+"gap": 8.48,
+"mkt_p": null
+},
+{
+"id": "401858312",
+"game": "Duke @ Wake Forest",
+"commence": "2026-11-28T15:30:00-05:00",
+"status": "SKETCHY",
+"team": "Wake Forest",
+"line": -14.5,
+"price": -108.0,
+"ours": -10.1,
+"gap": 4.36,
+"mkt_p": null
+},
+{
+"id": "401858543",
+"game": "USC @ UCLA",
+"commence": "2026-11-28T15:30:00-05:00",
+"status": "too far off - likely injury/news",
+"team": "USC",
+"line": -6.5,
+"price": -115.0,
+"ours": 3.8,
+"gap": 10.34,
+"mkt_p": null
+},
+{
+"id": "401856876",
+"game": "Cincinnati @ BYU",
+"commence": "2026-11-28T15:30:00-05:00",
+"status": "normal line",
+"team": "BYU",
+"line": -15.5,
+"price": -108.0,
+"ours": -13.8,
+"gap": 1.68,
+"mkt_p": null
+},
+{
+"id": "401858316",
+"game": "SMU @ Stanford",
+"commence": "2026-11-28T15:30:00-05:00",
+"status": "SKETCHY",
+"team": "SMU",
+"line": -7.5,
+"price": -108.0,
+"ours": -2.8,
+"gap": 4.7,
+"mkt_p": null
+},
+{
+"id": "401858539",
+"game": "Penn State @ Maryland",
+"commence": "2026-11-28T15:30:00-05:00",
+"status": "normal line",
+"team": "Penn State",
+"line": -7.0,
+"price": -112.0,
+"ours": -6.3,
+"gap": 0.66,
+"mkt_p": null
+},
+{
+"id": "401862839",
+"game": "Tulane @ South Florida",
+"commence": "2026-11-28T15:30:00-05:00",
+"status": "normal line",
+"team": "South Florida",
+"line": -6.5,
+"price": -108.0,
+"ours": -6.4,
+"gap": 0.14,
+"mkt_p": null
+},
+{
+"id": "401864550",
+"game": "UTEP @ Northern Illinois",
+"commence": "2026-11-28T15:30:00-05:00",
+"status": "normal line",
+"team": "UTEP",
+"line": 4.0,
+"price": -110.0,
+"ours": 5.1,
+"gap": 1.09,
+"mkt_p": null
+},
+{
+"id": "401866475",
+"game": "Massachusetts @ Bowling Green",
+"commence": "2026-11-28T15:30:00-05:00",
+"status": "SKETCHY",
+"team": "Massachusetts",
+"line": 3.0,
+"price": -105.0,
+"ours": 7.2,
+"gap": 4.25,
+"mkt_p": null
+},
+{
+"id": "401871062",
+"game": "Jacksonville State @ Delaware",
+"commence": "2026-11-28T15:30:00-05:00",
+"status": "normal line",
+"team": "Delaware",
+"line": -2.5,
+"price": -115.0,
+"ours": -2.3,
+"gap": 0.19,
+"mkt_p": null
+},
+{
+"id": "401862843",
+"game": "UAB @ North Texas",
+"commence": "2026-11-28T16:00:00-05:00",
+"status": "SKETCHY",
+"team": "UAB",
+"line": 3.0,
+"price": -110.0,
+"ours": 10.1,
+"gap": 7.11,
+"mkt_p": null
+},
+{
+"id": "401856763",
+"game": "Oklahoma @ Missouri",
+"commence": "2026-11-28T16:15:00-05:00",
+"status": "normal line",
+"team": "Missouri",
+"line": -2.5,
+"price": -105.0,
+"ours": -2.1,
+"gap": 0.39,
+"mkt_p": null
+},
+{
+"id": "401858542",
+"game": "Michigan State @ Rutgers",
+"commence": "2026-11-28T16:15:00-05:00",
+"status": "normal line",
+"team": "Michigan State",
+"line": -3.0,
+"price": -112.0,
+"ours": -1.2,
+"gap": 1.78,
+"mkt_p": null
+},
+{
+"id": "401860926",
+"game": "Boise State @ Colorado State",
+"commence": "2026-11-28T18:00:00-05:00",
+"status": "SKETCHY",
+"team": "Boise State",
+"line": -21.0,
+"price": -115.0,
+"ours": -15.7,
+"gap": 5.3,
+"mkt_p": null
+},
+{
+"id": "401856877",
+"game": "Kansas @ Oklahoma State",
+"commence": "2026-11-28T18:15:00-05:00",
+"status": "normal line",
+"team": "Oklahoma State",
+"line": -6.5,
+"price": -108.0,
+"ours": -3.8,
+"gap": 2.67,
+"mkt_p": null
+},
+{
+"id": "401860929",
+"game": "San Diego State @ Washington State",
+"commence": "2026-11-28T18:30:00-05:00",
+"status": "SKETCHY",
+"team": "Washington State",
+"line": -2.5,
+"price": -118.0,
+"ours": 1.3,
+"gap": 3.76,
+"mkt_p": null
+},
+{
+"id": "401856765",
+"game": "Tennessee @ Vanderbilt",
+"commence": "2026-11-28T19:00:00-05:00",
+"status": "normal line",
+"team": "Tennessee",
+"line": -13.5,
+"price": -110.0,
+"ours": -11.0,
+"gap": 2.46,
+"mkt_p": null
+},
+{
+"id": "401858538",
+"game": "Purdue @ Indiana",
+"commence": "2026-11-28T19:00:00-05:00",
+"status": "SKETCHY",
+"team": "Indiana",
+"line": -23.5,
+"price": -108.0,
+"ours": -19.2,
+"gap": 4.34,
+"mkt_p": null
+},
+{
+"id": "401856757",
+"game": "Auburn @ Alabama",
+"commence": "2026-11-28T19:30:00-05:00",
+"status": "normal line",
+"team": "Alabama",
+"line": -15.5,
+"price": -108.0,
+"ours": -12.5,
+"gap": 3.02,
+"mkt_p": null
+},
+{
+"id": "401858541",
+"game": "Washington @ Oregon",
+"commence": "2026-11-28T19:30:00-05:00",
+"status": "SKETCHY",
+"team": "Oregon",
+"line": -14.0,
+"price": -108.0,
+"ours": -10.1,
+"gap": 3.88,
+"mkt_p": null
+},
+{
+"id": "401858315",
+"game": "Pittsburgh @ California",
+"commence": "2026-11-28T19:30:00-05:00",
+"status": "normal line",
+"team": "Pittsburgh",
+"line": -9.5,
+"price": -110.0,
+"ours": -8.1,
+"gap": 1.44,
+"mkt_p": null
+},
+{
+"id": "401856873",
+"game": "Arizona State @ Arizona",
+"commence": "2026-11-28T21:00:00-05:00",
+"status": "normal line",
+"team": "Arizona State",
+"line": 8.5,
+"price": -110.0,
+"ours": 10.7,
+"gap": 2.19,
+"mkt_p": null
+},
+{
+"id": "401864548",
+"game": "Nevada @ UNLV",
+"commence": "2026-11-28T21:00:00-05:00",
+"status": "normal line",
+"team": "Nevada",
+"line": 5.5,
+"price": -110.0,
+"ours": 6.1,
+"gap": 0.61,
+"mkt_p": null
+},
+{
+"id": "401856874",
+"game": "Baylor @ Houston",
+"commence": "2026-11-28T21:30:00-05:00",
+"status": "normal line",
+"team": "Houston",
+"line": -4.5,
+"price": -112.0,
+"ours": -2.6,
+"gap": 1.85,
+"mkt_p": null
+},
+{
+"id": "401860928",
+"game": "Texas State @ Utah State",
+"commence": "2026-11-28T21:30:00-05:00",
+"status": "normal line",
+"team": "Texas State",
+"line": -7.0,
+"price": -108.0,
+"ours": -5.3,
+"gap": 1.68,
+"mkt_p": null
+},
+{
+"id": "401860927",
+"game": "Oregon State @ Fresno State",
+"commence": "2026-11-28T22:00:00-05:00",
+"status": "normal line",
+"team": "Oregon State",
+"line": 3.0,
+"price": -105.0,
+"ours": 4.3,
+"gap": 1.28,
+"mkt_p": null
+},
+{
+"id": "401864547",
+"game": "Sacramento State @ Hawai'i",
+"commence": "2026-11-28T23:00:00-05:00",
+"status": "normal line",
+"team": "Hawai'i",
+"line": -13.5,
+"price": -112.0,
+"ours": -10.9,
+"gap": 2.61,
+"mkt_p": null
+}
+]
+},
+"nba": {
+"at": "2026-11-25T21:12:10.254353-05:00",
+"rows": [
+{
+"id": "401909324",
+"game": "Kings @ Warriors",
+"commence": "2026-11-25T22:00:00-05:00",
+"status": "normal line",
+"team": "Kings",
+"line": 8.5,
+"price": -105.0,
+"ours": 8.8,
+"gap": 0.35,
+"mkt_p": null
+},
+{
+"id": "401909325",
+"game": "Spurs @ Trail Blazers",
+"commence": "2026-11-25T22:00:00-05:00",
+"status": "normal line",
+"team": "Spurs",
+"line": -3.5,
+"price": -103.0,
+"ours": -1.1,
+"gap": 2.38,
+"mkt_p": null
+}
+]
+},
+"cbb": {
+"at": "2026-11-25T21:12:10.254353-05:00",
+"rows": [
+{
+"id": "401929287",
+"game": "Wake Forest @ Mississippi State",
+"commence": "2026-11-25T21:29:00-05:00",
+"status": "SKETCHY",
+"team": "Mississippi State",
+"line": -3.5,
+"price": -112.0,
+"ours": 0.4,
+"gap": 3.87,
+"mkt_p": null
+},
+{
+"id": "401921671",
+"game": "Grand Canyon @ Colorado",
+"commence": "2026-11-25T21:30:00-05:00",
+"status": "SKETCHY",
+"team": "Grand Canyon",
+"line": -9.5,
+"price": -115.0,
+"ours": -4.6,
+"gap": 4.94,
+"mkt_p": null
+},
+{
+"id": "401921713",
+"game": "Washington @ VCU",
+"commence": "2026-11-25T22:00:00-05:00",
+"status": "normal line",
+"team": "VCU",
+"line": -4.5,
+"price": -102.0,
+"ours": -1.7,
+"gap": 2.84,
+"mkt_p": null
+},
+{
+"id": "401917544",
+"game": "Pacific @ Jacksonville State",
+"commence": "2026-11-25T22:30:00-05:00",
+"status": "normal line",
+"team": "Jacksonville State",
+"line": 3.5,
+"price": -108.0,
+"ours": 4.1,
+"gap": 0.64,
+"mkt_p": null
+},
+{
+"id": "401929005",
+"game": "Incarnate Word @ Hawai'i",
+"commence": "2026-11-25T23:59:00-05:00",
+"status": "SKETCHY",
+"team": "Hawai'i",
+"line": -16.5,
+"price": -115.0,
+"ours": -10.7,
+"gap": 5.8,
+"mkt_p": null
+},
+{
+"id": "401921672",
+"game": "Stanford @ Saint Louis",
+"commence": "2026-11-25T23:59:00-05:00",
+"status": "normal line",
+"team": "Saint Louis",
+"line": -3.5,
+"price": -118.0,
+"ours": -2.4,
+"gap": 1.07,
+"mkt_p": null
+}
+]
+},
+"nhl": {
+"at": "2026-11-25T21:12:10.254353-05:00",
+"rows": [
+{
+"id": "401892792",
+"game": "Canadiens @ Avalanche",
+"commence": "2026-11-25T21:30:00-05:00",
+"status": "SKETCHY",
+"team": "Canadiens",
+"line": null,
+"price": 100.0,
+"ours": 0.4059,
+"gap": 0.0724,
+"mkt_p": 0.4783
+},
+{
+"id": "401892794",
+"game": "Blackhawks @ Kraken",
+"commence": "2026-11-25T21:40:00-05:00",
+"status": "normal line",
+"team": "Kraken",
+"line": null,
+"price": -155.0,
+"ours": 0.5631,
+"gap": 0.0199,
+"mkt_p": 0.583
+},
+{
+"id": "401892793",
+"game": "Sharks @ Ducks",
+"commence": "2026-11-25T22:00:00-05:00",
+"status": "normal line",
+"team": "Sharks",
+"line": null,
+"price": 114.0,
+"ours": 0.4201,
+"gap": 0.0285,
+"mkt_p": 0.4486
+}
+]
+}
+},
+"ratings": {
+"nfl": {
+"hca": 1.62,
+"rows": [
+{
+"team": "San Francisco 49ers",
+"r": 7.07,
+"n": 10
+},
+{
+"team": "Buffalo Bills",
+"r": 7.01,
+"n": 10
+},
+{
+"team": "Jacksonville Jaguars",
+"r": 6.36,
+"n": 10
+},
+{
+"team": "Los Angeles Rams",
+"r": 5.48,
+"n": 10
+},
+{
+"team": "Kansas City Chiefs",
+"r": 5.4,
+"n": 10
+},
+{
+"team": "Detroit Lions",
+"r": 4.45,
+"n": 10
+},
+{
+"team": "Seattle Seahawks",
+"r": 4.32,
+"n": 10
+},
+{
+"team": "Cincinnati Bengals",
+"r": 4.01,
+"n": 10
+},
+{
+"team": "Denver Broncos",
+"r": 3.75,
+"n": 10
+},
+{
+"team": "Houston Texans",
+"r": 3.61,
+"n": 10
+},
+{
+"team": "Chicago Bears",
+"r": 3.29,
+"n": 10
+},
+{
+"team": "Minnesota Vikings",
+"r": 1.7,
+"n": 10
+},
+{
+"team": "Tampa Bay Buccaneers",
+"r": 0.9,
+"n": 10
+},
+{
+"team": "Green Bay Packers",
+"r": 0.84,
+"n": 10
+},
+{
+"team": "Dallas Cowboys",
+"r": 0.3,
+"n": 11
+},
+{
+"team": "Pittsburgh Steelers",
+"r": -0.01,
+"n": 10
+},
+{
+"team": "New York Giants",
+"r": -0.11,
+"n": 10
+},
+{
+"team": "New England Patriots",
+"r": -0.35,
+"n": 10
+},
+{
+"team": "Washington Commanders",
+"r": -1.14,
+"n": 10
+},
+{
+"team": "Carolina Panthers",
+"r": -1.99,
+"n": 10
+},
+{
+"team": "Atlanta Falcons",
+"r": -3.2,
+"n": 10
+},
+{
+"team": "Cleveland Browns",
+"r": -3.44,
+"n": 10
+},
+{
+"team": "Indianapolis Colts",
+"r": -3.68,
+"n": 11
+},
+{
+"team": "Baltimore Ravens",
+"r": -3.71,
+"n": 11
+},
+{
+"team": "New Orleans Saints",
+"r": -3.89,
+"n": 10
+},
+{
+"team": "Las Vegas Raiders",
+"r": -4.08,
+"n": 11
+},
+{
+"team": "Philadelphia Eagles",
+"r": -4.15,
+"n": 10
+},
+{
+"team": "Los Angeles Chargers",
+"r": -4.98,
+"n": 10
+},
+{
+"team": "Miami Dolphins",
+"r": -5.06,
+"n": 10
+},
+{
+"team": "Arizona Cardinals",
+"r": -5.53,
+"n": 11
+},
+{
+"team": "New York Jets",
+"r": -5.73,
+"n": 11
+},
+{
+"team": "Tennessee Titans",
+"r": -7.44,
+"n": 10
+}
+]
+},
+"cfb": {
+"hca": 2.65,
+"rows": [
+{
+"team": "Georgia Bulldogs",
+"r": 19.49,
+"n": 10
+},
+{
+"team": "Notre Dame Fighting Irish",
+"r": 16.65,
+"n": 11
+},
+{
+"team": "Utah Utes",
+"r": 14.57,
+"n": 10
+},
+{
+"team": "Alabama Crimson Tide",
+"r": 13.76,
+"n": 10
+},
+{
+"team": "Wake Forest Demon Deacons",
+"r": 13.57,
+"n": 10
+},
+{
+"team": "Miami Hurricanes",
+"r": 13.54,
+"n": 10
+},
+{
+"team": "Oregon Ducks",
+"r": 13.3,
+"n": 10
+},
+{
+"team": "Texas Longhorns",
+"r": 12.8,
+"n": 11
+},
+{
+"team": "Tennessee Volunteers",
+"r": 12.6,
+"n": 10
+},
+{
+"team": "Texas Tech Red Raiders",
+"r": 12.35,
+"n": 10
+},
+{
+"team": "Indiana Hoosiers",
+"r": 12.35,
+"n": 10
+},
+{
+"team": "Iowa Hawkeyes",
+"r": 11.92,
+"n": 10
+},
+{
+"team": "Ohio State Buckeyes",
+"r": 11.88,
+"n": 11
+},
+{
+"team": "Louisville Cardinals",
+"r": 11.28,
+"n": 10
+},
+{
+"team": "BYU Cougars",
+"r": 9.37,
+"n": 10
+},
+{
+"team": "Ole Miss Rebels",
+"r": 9.33,
+"n": 10
+},
+{
+"team": "Arizona Wildcats",
+"r": 9.15,
+"n": 10
+},
+{
+"team": "LSU Tigers",
+"r": 8.59,
+"n": 10
+},
+{
+"team": "UCLA Bruins",
+"r": 8.49,
+"n": 11
+},
+{
+"team": "Nebraska Cornhuskers",
+"r": 7.6,
+"n": 10
+},
+{
+"team": "USC Trojans",
+"r": 7.3,
+"n": 11
+},
+{
+"team": "Boise State Broncos",
+"r": 7.26,
+"n": 10
+},
+{
+"team": "Liberty Flames",
+"r": 6.99,
+"n": 10
+},
+{
+"team": "Oklahoma Sooners",
+"r": 6.35,
+"n": 11
+},
+{
+"team": "Duke Blue Devils",
+"r": 6.08,
+"n": 10
+},
+{
+"team": "Wisconsin Badgers",
+"r": 6.08,
+"n": 10
+},
+{
+"team": "Louisiana Tech Bulldogs",
+"r": 5.97,
+"n": 10
+},
+{
+"team": "Washington Huskies",
+"r": 5.83,
+"n": 10
+},
+{
+"team": "Missouri Tigers",
+"r": 5.81,
+"n": 10
+},
+{
+"team": "Northwestern Wildcats",
+"r": 5.81,
+"n": 10
+},
+{
+"team": "Texas State Bobcats",
+"r": 5.75,
+"n": 10
+},
+{
+"team": "Penn State Nittany Lions",
+"r": 5.72,
+"n": 11
+},
+{
+"team": "New Mexico Lobos",
+"r": 5.18,
+"n": 10
+},
+{
+"team": "Memphis Tigers",
+"r": 5.11,
+"n": 10
+},
+{
+"team": "James Madison Dukes",
+"r": 4.79,
+"n": 10
+},
+{
+"team": "Baylor Bears",
+"r": 4.69,
+"n": 10
+},
+{
+"team": "Houston Cougars",
+"r": 4.69,
+"n": 10
+},
+{
+"team": "Auburn Tigers",
+"r": 3.93,
+"n": 10
+},
+{
+"team": "Oklahoma State Cowboys",
+"r": 3.58,
+"n": 10
+},
+{
+"team": "Georgia Southern Eagles",
+"r": 3.54,
+"n": 10
+},
+{
+"team": "North Texas Mean Green",
+"r": 3.53,
+"n": 10
+},
+{
+"team": "Illinois Fighting Illini",
+"r": 3.48,
+"n": 10
+},
+{
+"team": "SMU Mustangs",
+"r": 3.39,
+"n": 10
+},
+{
+"team": "Virginia Cavaliers",
+"r": 3.12,
+"n": 10
+},
+{
+"team": "TCU Horned Frogs",
+"r": 2.86,
+"n": 10
+},
+{
+"team": "Toledo Rockets",
+"r": 2.68,
+"n": 10
+},
+{
+"team": "Florida Gators",
+"r": 2.46,
+"n": 10
+},
+{
+"team": "Kansas Jayhawks",
+"r": 2.4,
+"n": 10
+},
+{
+"team": "Tulsa Golden Hurricane",
+"r": 2.21,
+"n": 10
+},
+{
+"team": "UTSA Roadrunners",
+"r": 1.93,
+"n": 10
+},
+{
+"team": "Michigan Wolverines",
+"r": 1.93,
+"n": 11
+},
+{
+"team": "Air Force Falcons",
+"r": 1.75,
+"n": 10
+},
+{
+"team": "Texas A&M Aggies",
+"r": 1.67,
+"n": 10
+},
+{
+"team": "Clemson Tigers",
+"r": 1.38,
+"n": 10
+},
+{
+"team": "North Carolina Tar Heels",
+"r": 1.37,
+"n": 10
+},
+{
+"team": "Fresno State Bulldogs",
+"r": 1.3,
+"n": 11
+},
+{
+"team": "Kentucky Wildcats",
+"r": 1.22,
+"n": 10
+},
+{
+"team": "Arizona State Sun Devils",
+"r": 1.1,
+"n": 10
+},
+{
+"team": "South Carolina Gamecocks",
+"r": 0.94,
+"n": 10
+},
+{
+"team": "Western Michigan Broncos",
+"r": 0.67,
+"n": 11
+},
+{
+"team": "Florida State Seminoles",
+"r": 0.5,
+"n": 10
+},
+{
+"team": "North Dakota State Bison",
+"r": 0.47,
+"n": 10
+},
+{
+"team": "UCF Knights",
+"r": 0.39,
+"n": 10
+},
+{
+"team": "Iowa State Cyclones",
+"r": 0.37,
+"n": 10
+},
+{
+"team": "Arkansas Razorbacks",
+"r": 0.3,
+"n": 10
+},
+{
+"team": "Louisiana Ragin' Cajuns",
+"r": 0.23,
+"n": 10
+},
+{
+"team": "South Florida Bulls",
+"r": 0.09,
+"n": 10
+},
+{
+"team": "Pittsburgh Panthers",
+"r": -0.07,
+"n": 10
+},
+{
+"team": "UConn Huskies",
+"r": -0.17,
+"n": 10
+},
+{
+"team": "Oregon State Beavers",
+"r": -0.33,
+"n": 10
+},
+{
+"team": "Buffalo Bulls",
+"r": -0.34,
+"n": 9
+},
+{
+"team": "NC State Wolfpack",
+"r": -0.36,
+"n": 10
+},
+{
+"team": "Navy Midshipmen",
+"r": -0.48,
+"n": 9
+},
+{
+"team": "Army Black Knights",
+"r": -0.73,
+"n": 9
+},
+{
+"team": "UNLV Rebels",
+"r": -0.86,
+"n": 11
+},
+{
+"team": "Miami (OH) RedHawks",
+"r": -0.87,
+"n": 11
+},
+{
+"team": "San Diego State Aztecs",
+"r": -0.88,
+"n": 10
+},
+{
+"team": "Florida Atlantic Owls",
+"r": -0.97,
+"n": 10
+},
+{
+"team": "Vanderbilt Commodores",
+"r": -1.09,
+"n": 10
+},
+{
+"team": "East Carolina Pirates",
+"r": -1.19,
+"n": 10
+},
+{
+"team": "Cincinnati Bearcats",
+"r": -1.8,
+"n": 10
+},
+{
+"team": "Jacksonville State Gamecocks",
+"r": -1.97,
+"n": 10
+},
+{
+"team": "Kansas State Wildcats",
+"r": -2.0,
+"n": 10
+},
+{
+"team": "Stanford Cardinal",
+"r": -2.06,
+"n": 10
+},
+{
+"team": "Minnesota Golden Gophers",
+"r": -2.18,
+"n": 10
+},
+{
+"team": "Utah State Aggies",
+"r": -2.21,
+"n": 10
+},
+{
+"team": "Michigan State Spartans",
+"r": -2.31,
+"n": 11
+},
+{
+"team": "Delaware Blue Hens",
+"r": -2.31,
+"n": 10
+},
+{
+"team": "West Virginia Mountaineers",
+"r": -2.53,
+"n": 10
+},
+{
+"team": "Virginia Tech Hokies",
+"r": -2.79,
+"n": 10
+},
+{
+"team": "Ohio Bobcats",
+"r": -2.92,
+"n": 10
+},
+{
+"team": "Syracuse Orange",
+"r": -3.03,
+"n": 10
+},
+{
+"team": "Kennesaw State Owls",
+"r": -3.06,
+"n": 10
+},
+{
+"team": "Wyoming Cowboys",
+"r": -3.18,
+"n": 10
+},
+{
+"team": "Maryland Terrapins",
+"r": -3.27,
+"n": 10
+},
+{
+"team": "Colorado Buffaloes",
+"r": -3.29,
+"n": 10
+},
+{
+"team": "Central Michigan Chippewas",
+"r": -3.45,
+"n": 10
+},
+{
+"team": "Boston College Eagles",
+"r": -3.61,
+"n": 10
+},
+{
+"team": "Tulane Green Wave",
+"r": -3.62,
+"n": 11
+},
+{
+"team": "UAB Blazers",
+"r": -3.93,
+"n": 10
+},
+{
+"team": "Mississippi State Bulldogs",
+"r": -4.11,
+"n": 10
+},
+{
+"team": "Purdue Boilermakers",
+"r": -4.16,
+"n": 10
+},
+{
+"team": "Nevada Wolf Pack",
+"r": -4.33,
+"n": 10
+},
+{
+"team": "South Alabama Jaguars",
+"r": -4.34,
+"n": 10
+},
+{
+"team": "Washington State Cougars",
+"r": -4.79,
+"n": 10
+},
+{
+"team": "Georgia Tech Yellow Jackets",
+"r": -4.89,
+"n": 10
+},
+{
+"team": "Georgia State Panthers",
+"r": -5.75,
+"n": 10
+},
+{
+"team": "Hawai'i Rainbow Warriors",
+"r": -5.84,
+"n": 11
+},
+{
+"team": "Florida International Panthers",
+"r": -5.99,
+"n": 10
+},
+{
+"team": "Old Dominion Monarchs",
+"r": -6.16,
+"n": 10
+},
+{
+"team": "Rutgers Scarlet Knights",
+"r": -6.18,
+"n": 10
+},
+{
+"team": "Coastal Carolina Chanticleers",
+"r": -6.39,
+"n": 10
+},
+{
+"team": "Middle Tennessee Blue Raiders",
+"r": -6.55,
+"n": 10
+},
+{
+"team": "Marshall Thundering Herd",
+"r": -6.83,
+"n": 10
+},
+{
+"team": "San Jos\u00e9 State Spartans",
+"r": -7.03,
+"n": 11
+},
+{
+"team": "App State Mountaineers",
+"r": -7.13,
+"n": 10
+},
+{
+"team": "Western Kentucky Hilltoppers",
+"r": -7.42,
+"n": 10
+},
+{
+"team": "Missouri State Bears",
+"r": -7.54,
+"n": 10
+},
+{
+"team": "Bowling Green Falcons",
+"r": -7.76,
+"n": 10
+},
+{
+"team": "Arkansas State Red Wolves",
+"r": -7.96,
+"n": 10
+},
+{
+"team": "Rice Owls",
+"r": -9.01,
+"n": 10
+},
+{
+"team": "Temple Owls",
+"r": -9.62,
+"n": 10
+},
+{
+"team": "Troy Trojans",
+"r": -9.76,
+"n": 10
+},
+{
+"team": "Eastern Michigan Eagles",
+"r": -9.82,
+"n": 11
+},
+{
+"team": "California Golden Bears",
+"r": -10.77,
+"n": 10
+},
+{
+"team": "Southern Miss Golden Eagles",
+"r": -10.93,
+"n": 10
+},
+{
+"team": "Colorado State Rams",
+"r": -11.09,
+"n": 10
+},
+{
+"team": "Ball State Cardinals",
+"r": -11.17,
+"n": 10
+},
+{
+"team": "New Mexico State Aggies",
+"r": -11.28,
+"n": 10
+},
+{
+"team": "Massachusetts Minutemen",
+"r": -12.36,
+"n": 9
+},
+{
+"team": "Kent State Golden Flashes",
+"r": -12.79,
+"n": 11
+},
+{
+"team": "UL Monroe Warhawks",
+"r": -12.93,
+"n": 10
+},
+{
+"team": "Charlotte 49ers",
+"r": -13.39,
+"n": 10
+},
+{
+"team": "Northern Illinois Huskies",
+"r": -13.82,
+"n": 10
+},
+{
+"team": "Sacramento State Hornets",
+"r": -14.09,
+"n": 10
+},
+{
+"team": "Akron Zips",
+"r": -15.26,
+"n": 10
+},
+{
+"team": "Sam Houston Bearkats",
+"r": -16.16,
+"n": 10
+},
+{
+"team": "UTEP Miners",
+"r": -16.26,
+"n": 10
+}
+]
+},
+"nba": {
+"hca": 2.27,
+"rows": [
+{
+"team": "San Antonio Spurs",
+"r": 7.38,
+"n": 18
+},
+{
+"team": "Minnesota Timberwolves",
+"r": 5.07,
+"n": 18
+},
+{
+"team": "Boston Celtics",
+"r": 4.96,
+"n": 18
+},
+{
+"team": "Houston Rockets",
+"r": 4.83,
+"n": 18
+},
+{
+"team": "Detroit Pistons",
+"r": 4.27,
+"n": 17
+},
+{
+"team": "Portland Trail Blazers",
+"r": 3.99,
+"n": 17
+},
+{
+"team": "New York Knicks",
+"r": 3.82,
+"n": 17
+},
+{
+"team": "Oklahoma City Thunder",
+"r": 3.36,
+"n": 18
+},
+{
+"team": "Los Angeles Lakers",
+"r": 2.74,
+"n": 18
+},
+{
+"team": "Memphis Grizzlies",
+"r": 2.4,
+"n": 18
+},
+{
+"team": "Denver Nuggets",
+"r": 1.49,
+"n": 16
+},
+{
+"team": "Miami Heat",
+"r": 1.49,
+"n": 17
+},
+{
+"team": "Phoenix Suns",
+"r": 1.26,
+"n": 16
+},
+{
+"team": "Cleveland Cavaliers",
+"r": 1.24,
+"n": 18
+},
+{
+"team": "Atlanta Hawks",
+"r": 1.2,
+"n": 17
+},
+{
+"team": "Philadelphia 76ers",
+"r": 0.54,
+"n": 19
+},
+{
+"team": "Dallas Mavericks",
+"r": 0.23,
+"n": 18
+},
+{
+"team": "Golden State Warriors",
+"r": -0.76,
+"n": 17
+},
+{
+"team": "Toronto Raptors",
+"r": -0.97,
+"n": 17
+},
+{
+"team": "Chicago Bulls",
+"r": -2.43,
+"n": 17
+},
+{
+"team": "Orlando Magic",
+"r": -2.49,
+"n": 17
+},
+{
+"team": "Charlotte Hornets",
+"r": -2.78,
+"n": 16
+},
+{
+"team": "LA Clippers",
+"r": -3.2,
+"n": 16
+},
+{
+"team": "Indiana Pacers",
+"r": -3.55,
+"n": 18
+},
+{
+"team": "Utah Jazz",
+"r": -4.39,
+"n": 19
+},
+{
+"team": "New Orleans Pelicans",
+"r": -4.83,
+"n": 19
+},
+{
+"team": "Washington Wizards",
+"r": -5.07,
+"n": 19
+},
+{
+"team": "Milwaukee Bucks",
+"r": -5.97,
+"n": 18
+},
+{
+"team": "Brooklyn Nets",
+"r": -6.58,
+"n": 16
+},
+{
+"team": "Sacramento Kings",
+"r": -7.33,
+"n": 17
+}
+]
+},
+"cbb": {
+"hca": 3.98,
+"rows": [
+{
+"team": "Houston Cougars",
+"r": 13.34,
+"n": 6
+},
+{
+"team": "Illinois Fighting Illini",
+"r": 13.3,
+"n": 7
+},
+{
+"team": "Arizona Wildcats",
+"r": 13.16,
+"n": 8
+},
+{
+"team": "Vanderbilt Commodores",
+"r": 11.9,
+"n": 7
+},
+{
+"team": "St. John's Red Storm",
+"r": 11.48,
+"n": 6
+},
+{
+"team": "Nebraska Cornhuskers",
+"r": 11.38,
+"n": 7
+},
+{
+"team": "Virginia Cavaliers",
+"r": 11.3,
+"n": 8
+},
+{
+"team": "Kansas Jayhawks",
+"r": 11.09,
+"n": 7
+},
+{
+"team": "Florida Gators",
+"r": 10.9,
+"n": 8
+},
+{
+"team": "Iowa State Cyclones",
+"r": 10.45,
+"n": 5
+},
+{
+"team": "Utah State Aggies",
+"r": 10.32,
+"n": 5
+},
+{
+"team": "UConn Huskies",
+"r": 10.27,
+"n": 5
+},
+{
+"team": "Gonzaga Bulldogs",
+"r": 10.11,
+"n": 5
+},
+{
+"team": "Tennessee Volunteers",
+"r": 9.92,
+"n": 6
+},
+{
+"team": "Michigan State Spartans",
+"r": 9.91,
+"n": 6
+},
+{
+"team": "Iowa Hawkeyes",
+"r": 9.36,
+"n": 6
+},
+{
+"team": "Alabama Crimson Tide",
+"r": 9.31,
+"n": 6
+},
+{
+"team": "Saint Mary's Gaels",
+"r": 9.24,
+"n": 6
+},
+{
+"team": "UCLA Bruins",
+"r": 9.09,
+"n": 6
+},
+{
+"team": "Ole Miss Rebels",
+"r": 8.95,
+"n": 7
+},
+{
+"team": "Indiana Hoosiers",
+"r": 8.9,
+"n": 7
+},
+{
+"team": "Minnesota Golden Gophers",
+"r": 8.8,
+"n": 7
+},
+{
+"team": "Texas A&M Aggies",
+"r": 8.76,
+"n": 7
+},
+{
+"team": "Texas Tech Red Raiders",
+"r": 8.68,
+"n": 6
+},
+{
+"team": "Texas Longhorns",
+"r": 8.67,
+"n": 6
+},
+{
+"team": "Cincinnati Bearcats",
+"r": 8.46,
+"n": 6
+},
+{
+"team": "Duke Blue Devils",
+"r": 8.4,
+"n": 6
+},
+{
+"team": "BYU Cougars",
+"r": 8.31,
+"n": 8
+},
+{
+"team": "NC State Wolfpack",
+"r": 8.26,
+"n": 7
+},
+{
+"team": "USC Trojans",
+"r": 8.24,
+"n": 7
+},
+{
+"team": "Baylor Bears",
+"r": 8.17,
+"n": 6
+},
+{
+"team": "Michigan Wolverines",
+"r": 8.04,
+"n": 6
+},
+{
+"team": "Pittsburgh Panthers",
+"r": 8.02,
+"n": 7
+},
+{
+"team": "LSU Tigers",
+"r": 7.86,
+"n": 7
+},
+{
+"team": "Oklahoma State Cowboys",
+"r": 7.84,
+"n": 7
+},
+{
+"team": "Purdue Boilermakers",
+"r": 7.83,
+"n": 7
+},
+{
+"team": "SMU Mustangs",
+"r": 7.69,
+"n": 6
+},
+{
+"team": "Creighton Bluejays",
+"r": 7.59,
+"n": 6
+},
+{
+"team": "North Carolina Tar Heels",
+"r": 7.58,
+"n": 6
+},
+{
+"team": "Florida State Seminoles",
+"r": 7.51,
+"n": 7
+},
+{
+"team": "Seton Hall Pirates",
+"r": 7.25,
+"n": 7
+},
+{
+"team": "Grand Canyon Lopes",
+"r": 7.24,
+"n": 5
+},
+{
+"team": "DePaul Blue Demons",
+"r": 7.19,
+"n": 6
+},
+{
+"team": "Auburn Tigers",
+"r": 7.18,
+"n": 7
+},
+{
+"team": "Wichita State Shockers",
+"r": 7.08,
+"n": 6
+},
+{
+"team": "Arkansas Razorbacks",
+"r": 7.03,
+"n": 6
+},
+{
+"team": "Georgia Bulldogs",
+"r": 7.0,
+"n": 6
+},
+{
+"team": "Miami Hurricanes",
+"r": 6.96,
+"n": 7
+},
+{
+"team": "San Diego State Aztecs",
+"r": 6.92,
+"n": 6
+},
+{
+"team": "Murray State Racers",
+"r": 6.89,
+"n": 7
+},
+{
+"team": "Missouri Tigers",
+"r": 6.84,
+"n": 7
+},
+{
+"team": "Notre Dame Fighting Irish",
+"r": 6.81,
+"n": 7
+},
+{
+"team": "Texas State Bobcats",
+"r": 6.76,
+"n": 7
+},
+{
+"team": "Ohio State Buckeyes",
+"r": 6.62,
+"n": 7
+},
+{
+"team": "Virginia Tech Hokies",
+"r": 6.5,
+"n": 7
+},
+{
+"team": "Louisville Cardinals",
+"r": 6.34,
+"n": 5
+},
+{
+"team": "High Point Panthers",
+"r": 6.34,
+"n": 6
+},
+{
+"team": "South Florida Bulls",
+"r": 6.29,
+"n": 7
+},
+{
+"team": "Nevada Wolf Pack",
+"r": 6.22,
+"n": 7
+},
+{
+"team": "Villanova Wildcats",
+"r": 6.17,
+"n": 6
+},
+{
+"team": "TCU Horned Frogs",
+"r": 6.05,
+"n": 6
+},
+{
+"team": "Georgetown Hoyas",
+"r": 6.0,
+"n": 6
+},
+{
+"team": "West Virginia Mountaineers",
+"r": 5.96,
+"n": 6
+},
+{
+"team": "George Mason Patriots",
+"r": 5.96,
+"n": 7
+},
+{
+"team": "Saint Louis Billikens",
+"r": 5.84,
+"n": 6
+},
+{
+"team": "New Mexico Lobos",
+"r": 5.58,
+"n": 5
+},
+{
+"team": "Wright State Raiders",
+"r": 5.58,
+"n": 7
+},
+{
+"team": "VCU Rams",
+"r": 5.56,
+"n": 6
+},
+{
+"team": "Oregon State Beavers",
+"r": 5.48,
+"n": 8
+},
+{
+"team": "Davidson Wildcats",
+"r": 5.45,
+"n": 7
+},
+{
+"team": "Providence Friars",
+"r": 5.42,
+"n": 8
+},
+{
+"team": "Xavier Musketeers",
+"r": 5.33,
+"n": 7
+},
+{
+"team": "Miami (OH) RedHawks",
+"r": 5.29,
+"n": 5
+},
+{
+"team": "Rutgers Scarlet Knights",
+"r": 5.26,
+"n": 7
+},
+{
+"team": "Arizona State Sun Devils",
+"r": 5.26,
+"n": 6
+},
+{
+"team": "Wisconsin Badgers",
+"r": 5.17,
+"n": 7
+},
+{
+"team": "Wyoming Cowboys",
+"r": 5.11,
+"n": 6
+},
+{
+"team": "Wake Forest Demon Deacons",
+"r": 5.0,
+"n": 6
+},
+{
+"team": "Memphis Tigers",
+"r": 4.96,
+"n": 6
+},
+{
+"team": "Marquette Golden Eagles",
+"r": 4.96,
+"n": 7
+},
+{
+"team": "UC Santa Barbara Gauchos",
+"r": 4.93,
+"n": 4
+},
+{
+"team": "St. Bonaventure Bonnies",
+"r": 4.68,
+"n": 8
+},
+{
+"team": "George Washington Revolutionaries",
+"r": 4.66,
+"n": 6
+},
+{
+"team": "Mississippi State Bulldogs",
+"r": 4.62,
+"n": 6
+},
+{
+"team": "Columbia Lions",
+"r": 4.53,
+"n": 6
+},
+{
+"team": "Seattle U Redhawks",
+"r": 4.28,
+"n": 7
+},
+{
+"team": "Boston College Eagles",
+"r": 4.21,
+"n": 6
+},
+{
+"team": "Santa Clara Broncos",
+"r": 4.08,
+"n": 8
+},
+{
+"team": "Western Kentucky Hilltoppers",
+"r": 4.04,
+"n": 5
+},
+{
+"team": "California Golden Bears",
+"r": 4.02,
+"n": 6
+},
+{
+"team": "Kentucky Wildcats",
+"r": 3.95,
+"n": 6
+},
+{
+"team": "Washington Huskies",
+"r": 3.9,
+"n": 5
+},
+{
+"team": "South Carolina Gamecocks",
+"r": 3.88,
+"n": 6
+},
+{
+"team": "Utah Valley Wolverines",
+"r": 3.79,
+"n": 5
+},
+{
+"team": "Butler Bulldogs",
+"r": 3.78,
+"n": 7
+},
+{
+"team": "Illinois State Redbirds",
+"r": 3.74,
+"n": 6
+},
+{
+"team": "Rhode Island Rams",
+"r": 3.7,
+"n": 7
+},
+{
+"team": "Syracuse Orange",
+"r": 3.67,
+"n": 7
+},
+{
+"team": "St. Thomas Tommies",
+"r": 3.63,
+"n": 7
+},
+{
+"team": "UCF Knights",
+"r": 3.54,
+"n": 6
+},
+{
+"team": "Clemson Tigers",
+"r": 3.42,
+"n": 7
+},
+{
+"team": "Stanford Cardinal",
+"r": 3.41,
+"n": 7
+},
+{
+"team": "Oregon Ducks",
+"r": 3.36,
+"n": 5
+},
+{
+"team": "Akron Zips",
+"r": 3.32,
+"n": 6
+},
+{
+"team": "Furman Paladins",
+"r": 3.25,
+"n": 6
+},
+{
+"team": "Boise State Broncos",
+"r": 3.22,
+"n": 5
+},
+{
+"team": "Oklahoma Sooners",
+"r": 3.09,
+"n": 6
+},
+{
+"team": "Charlotte 49ers",
+"r": 3.0,
+"n": 7
+},
+{
+"team": "Stephen F. Austin Lumberjacks",
+"r": 2.86,
+"n": 5
+},
+{
+"team": "Maryland Terrapins",
+"r": 2.86,
+"n": 6
+},
+{
+"team": "James Madison Dukes",
+"r": 2.85,
+"n": 7
+},
+{
+"team": "McNeese Cowboys",
+"r": 2.78,
+"n": 4
+},
+{
+"team": "UNC Wilmington Seahawks",
+"r": 2.75,
+"n": 4
+},
+{
+"team": "Pacific Tigers",
+"r": 2.71,
+"n": 5
+},
+{
+"team": "Colorado Buffaloes",
+"r": 2.68,
+"n": 6
+},
+{
+"team": "Western Michigan Broncos",
+"r": 2.67,
+"n": 5
+},
+{
+"team": "Lamar Cardinals",
+"r": 2.63,
+"n": 4
+},
+{
+"team": "Cal State Fullerton Titans",
+"r": 2.49,
+"n": 5
+},
+{
+"team": "Tulsa Golden Hurricane",
+"r": 2.39,
+"n": 6
+},
+{
+"team": "Sam Houston Bearkats",
+"r": 2.38,
+"n": 6
+},
+{
+"team": "Northwestern Wildcats",
+"r": 2.31,
+"n": 7
+},
+{
+"team": "UC Irvine Anteaters",
+"r": 2.15,
+"n": 5
+},
+{
+"team": "UT Martin Skyhawks",
+"r": 2.14,
+"n": 6
+},
+{
+"team": "San Diego Toreros",
+"r": 2.05,
+"n": 6
+},
+{
+"team": "Colorado State Rams",
+"r": 1.86,
+"n": 7
+},
+{
+"team": "Saint Joseph's Hawks",
+"r": 1.8,
+"n": 6
+},
+{
+"team": "Pennsylvania Quakers",
+"r": 1.75,
+"n": 6
+},
+{
+"team": "Washington State Cougars",
+"r": 1.74,
+"n": 6
+},
+{
+"team": "Arkansas State Red Wolves",
+"r": 1.72,
+"n": 7
+},
+{
+"team": "Fordham Rams",
+"r": 1.72,
+"n": 7
+},
+{
+"team": "Penn State Nittany Lions",
+"r": 1.71,
+"n": 7
+},
+{
+"team": "Montana State Bobcats",
+"r": 1.7,
+"n": 6
+},
+{
+"team": "UT Rio Grande Valley Vaqueros",
+"r": 1.59,
+"n": 5
+},
+{
+"team": "William & Mary Tribe",
+"r": 1.57,
+"n": 6
+},
+{
+"team": "Central Arkansas Bears",
+"r": 1.54,
+"n": 6
+},
+{
+"team": "UT Arlington Mavericks",
+"r": 1.53,
+"n": 7
+},
+{
+"team": "Belmont Bruins",
+"r": 1.37,
+"n": 6
+},
+{
+"team": "Charleston Cougars",
+"r": 1.37,
+"n": 5
+},
+{
+"team": "Richmond Spiders",
+"r": 1.31,
+"n": 7
+},
+{
+"team": "App State Mountaineers",
+"r": 1.18,
+"n": 7
+},
+{
+"team": "Loyola Marymount Lions",
+"r": 1.15,
+"n": 7
+},
+{
+"team": "Liberty Flames",
+"r": 1.11,
+"n": 5
+},
+{
+"team": "UTEP Miners",
+"r": 1.09,
+"n": 6
+},
+{
+"team": "Southern Illinois Salukis",
+"r": 0.98,
+"n": 6
+},
+{
+"team": "Florida Atlantic Owls",
+"r": 0.96,
+"n": 5
+},
+{
+"team": "Siena Saints",
+"r": 0.95,
+"n": 7
+},
+{
+"team": "Tennessee Tech Golden Eagles",
+"r": 0.92,
+"n": 6
+},
+{
+"team": "Cornell Big Red",
+"r": 0.88,
+"n": 6
+},
+{
+"team": "Toledo Rockets",
+"r": 0.86,
+"n": 6
+},
+{
+"team": "Old Dominion Monarchs",
+"r": 0.81,
+"n": 6
+},
+{
+"team": "Kansas State Wildcats",
+"r": 0.7,
+"n": 6
+},
+{
+"team": "Yale Bulldogs",
+"r": 0.65,
+"n": 8
+},
+{
+"team": "Bowling Green Falcons",
+"r": 0.58,
+"n": 6
+},
+{
+"team": "UAB Blazers",
+"r": 0.4,
+"n": 7
+},
+{
+"team": "Howard Bison",
+"r": 0.38,
+"n": 6
+},
+{
+"team": "Duquesne Dukes",
+"r": 0.36,
+"n": 6
+},
+{
+"team": "Massachusetts Minutemen",
+"r": 0.36,
+"n": 5
+},
+{
+"team": "Dayton Flyers",
+"r": 0.35,
+"n": 7
+},
+{
+"team": "Houston Christian Huskies",
+"r": 0.34,
+"n": 5
+},
+{
+"team": "UNLV Rebels",
+"r": 0.32,
+"n": 7
+},
+{
+"team": "North Texas Mean Green",
+"r": 0.25,
+"n": 4
+},
+{
+"team": "Valparaiso Beacons",
+"r": 0.24,
+"n": 5
+},
+{
+"team": "Loyola Chicago Ramblers",
+"r": 0.23,
+"n": 7
+},
+{
+"team": "UIC Flames",
+"r": 0.2,
+"n": 6
+},
+{
+"team": "East Tennessee State Buccaneers",
+"r": 0.17,
+"n": 5
+},
+{
+"team": "Marshall Thundering Herd",
+"r": 0.06,
+"n": 7
+},
+{
+"team": "Middle Tennessee Blue Raiders",
+"r": -0.04,
+"n": 7
+},
+{
+"team": "Rice Owls",
+"r": -0.11,
+"n": 7
+},
+{
+"team": "Pepperdine Waves",
+"r": -0.15,
+"n": 5
+},
+{
+"team": "Towson Tigers",
+"r": -0.18,
+"n": 7
+},
+{
+"team": "Drake Bulldogs",
+"r": -0.22,
+"n": 5
+},
+{
+"team": "Hawai'i Rainbow Warriors",
+"r": -0.23,
+"n": 5
+},
+{
+"team": "Boston University Terriers",
+"r": -0.27,
+"n": 7
+},
+{
+"team": "Campbell Fighting Camels",
+"r": -0.28,
+"n": 7
+},
+{
+"team": "Vermont Catamounts",
+"r": -0.32,
+"n": 6
+},
+{
+"team": "Princeton Tigers",
+"r": -0.33,
+"n": 6
+},
+{
+"team": "South Alabama Jaguars",
+"r": -0.35,
+"n": 8
+},
+{
+"team": "Hofstra Pride",
+"r": -0.46,
+"n": 4
+},
+{
+"team": "Louisiana Tech Bulldogs",
+"r": -0.47,
+"n": 6
+},
+{
+"team": "Florida International Panthers",
+"r": -0.52,
+"n": 6
+},
+{
+"team": "Kennesaw State Owls",
+"r": -0.53,
+"n": 6
+},
+{
+"team": "South Dakota State Jackrabbits",
+"r": -0.6,
+"n": 5
+},
+{
+"team": "Fresno State Bulldogs",
+"r": -0.7,
+"n": 5
+},
+{
+"team": "Missouri State Bears",
+"r": -0.71,
+"n": 2
+},
+{
+"team": "Eastern Michigan Eagles",
+"r": -0.75,
+"n": 5
+},
+{
+"team": "San Francisco Dons",
+"r": -0.76,
+"n": 7
+},
+{
+"team": "Temple Owls",
+"r": -0.77,
+"n": 7
+},
+{
+"team": "Northern Illinois Huskies",
+"r": -0.83,
+"n": 6
+},
+{
+"team": "Georgia Tech Yellow Jackets",
+"r": -0.86,
+"n": 7
+},
+{
+"team": "Bradley Braves",
+"r": -0.87,
+"n": 6
+},
+{
+"team": "UC Davis Aggies",
+"r": -0.88,
+"n": 4
+},
+{
+"team": "Portland State Vikings",
+"r": -0.89,
+"n": 6
+},
+{
+"team": "American University Eagles",
+"r": -0.91,
+"n": 5
+},
+{
+"team": "Ohio Bobcats",
+"r": -0.93,
+"n": 6
+},
+{
+"team": "Cal State Northridge Matadors",
+"r": -0.95,
+"n": 5
+},
+{
+"team": "San Jos\u00e9 State Spartans",
+"r": -1.06,
+"n": 7
+},
+{
+"team": "Austin Peay Governors",
+"r": -1.11,
+"n": 3
+},
+{
+"team": "Stony Brook Seawolves",
+"r": -1.12,
+"n": 4
+},
+{
+"team": "Samford Bulldogs",
+"r": -1.34,
+"n": 5
+},
+{
+"team": "Bellarmine Knights",
+"r": -1.37,
+"n": 8
+},
+{
+"team": "Jacksonville State Gamecocks",
+"r": -1.42,
+"n": 5
+},
+{
+"team": "Purdue Fort Wayne Mastodons",
+"r": -1.42,
+"n": 5
+},
+{
+"team": "Buffalo Bulls",
+"r": -1.42,
+"n": 4
+},
+{
+"team": "Chattanooga Mocs",
+"r": -1.44,
+"n": 6
+},
+{
+"team": "Elon Phoenix",
+"r": -1.46,
+"n": 7
+},
+{
+"team": "Kent State Golden Flashes",
+"r": -1.46,
+"n": 5
+},
+{
+"team": "UMass Lowell River Hawks",
+"r": -1.59,
+"n": 5
+},
+{
+"team": "Utah Utes",
+"r": -1.62,
+"n": 6
+},
+{
+"team": "Southern Miss Golden Eagles",
+"r": -1.74,
+"n": 7
+},
+{
+"team": "Idaho Vandals",
+"r": -1.75,
+"n": 5
+},
+{
+"team": "North Carolina A&T Aggies",
+"r": -1.77,
+"n": 5
+},
+{
+"team": "Troy Trojans",
+"r": -1.82,
+"n": 7
+},
+{
+"team": "Georgia State Panthers",
+"r": -1.83,
+"n": 7
+},
+{
+"team": "North Dakota State Bison",
+"r": -1.86,
+"n": 6
+},
+{
+"team": "Utah Tech Trailblazers",
+"r": -2.03,
+"n": 6
+},
+{
+"team": "Marist Red Foxes",
+"r": -2.03,
+"n": 6
+},
+{
+"team": "Portland Pilots",
+"r": -2.03,
+"n": 7
+},
+{
+"team": "Northern Iowa Panthers",
+"r": -2.07,
+"n": 7
+},
+{
+"team": "Texas A&M-Corpus Christi Islanders",
+"r": -2.07,
+"n": 6
+},
+{
+"team": "Monmouth Hawks",
+"r": -2.08,
+"n": 6
+},
+{
+"team": "Drexel Dragons",
+"r": -2.08,
+"n": 6
+},
+{
+"team": "Mercer Bears",
+"r": -2.1,
+"n": 7
+},
+{
+"team": "Cal State Bakersfield Roadrunners",
+"r": -2.13,
+"n": 4
+},
+{
+"team": "Tennessee State Tigers",
+"r": -2.18,
+"n": 3
+},
+{
+"team": "UTSA Roadrunners",
+"r": -2.25,
+"n": 6
+},
+{
+"team": "Abilene Christian Wildcats",
+"r": -2.32,
+"n": 5
+},
+{
+"team": "Florida Gulf Coast Eagles",
+"r": -2.32,
+"n": 6
+},
+{
+"team": "Tarleton State Texans",
+"r": -2.35,
+"n": 5
+},
+{
+"team": "Eastern Kentucky Colonels",
+"r": -2.42,
+"n": 4
+},
+{
+"team": "Oral Roberts Golden Eagles",
+"r": -2.45,
+"n": 5
+},
+{
+"team": "Harvard Crimson",
+"r": -2.47,
+"n": 6
+},
+{
+"team": "Montana Grizzlies",
+"r": -2.51,
+"n": 4
+},
+{
+"team": "Quinnipiac Bobcats",
+"r": -2.58,
+"n": 6
+},
+{
+"team": "Queens University Royals",
+"r": -2.62,
+"n": 7
+},
+{
+"team": "Wofford Terriers",
+"r": -2.7,
+"n": 6
+},
+{
+"team": "IU Indianapolis Jaguars",
+"r": -2.7,
+"n": 6
+},
+{
+"team": "East Carolina Pirates",
+"r": -2.7,
+"n": 7
+},
+{
+"team": "UC San Diego Tritons",
+"r": -2.71,
+"n": 5
+},
+{
+"team": "Colgate Raiders",
+"r": -2.75,
+"n": 4
+},
+{
+"team": "Green Bay Phoenix",
+"r": -2.76,
+"n": 6
+},
+{
+"team": "Merrimack Warriors",
+"r": -2.79,
+"n": 5
+},
+{
+"team": "Radford Highlanders",
+"r": -2.84,
+"n": 5
+},
+{
+"team": "Eastern Washington Eagles",
+"r": -2.88,
+"n": 5
+},
+{
+"team": "Iona Gaels",
+"r": -2.92,
+"n": 8
+},
+{
+"team": "UC Riverside Highlanders",
+"r": -2.93,
+"n": 5
+},
+{
+"team": "Denver Pioneers",
+"r": -3.0,
+"n": 5
+},
+{
+"team": "Lipscomb Bisons",
+"r": -3.04,
+"n": 8
+},
+{
+"team": "Navy Midshipmen",
+"r": -3.06,
+"n": 6
+},
+{
+"team": "Delaware Blue Hens",
+"r": -3.07,
+"n": 5
+},
+{
+"team": "Bethune-Cookman Wildcats",
+"r": -3.15,
+"n": 6
+},
+{
+"team": "Central Connecticut Blue Devils",
+"r": -3.18,
+"n": 5
+},
+{
+"team": "Georgia Southern Eagles",
+"r": -3.23,
+"n": 8
+},
+{
+"team": "Lehigh Mountain Hawks",
+"r": -3.27,
+"n": 6
+},
+{
+"team": "LSU New Orleans Privateers",
+"r": -3.28,
+"n": 4
+},
+{
+"team": "Idaho State Bengals",
+"r": -3.38,
+"n": 6
+},
+{
+"team": "La Salle Explorers",
+"r": -3.46,
+"n": 6
+},
+{
+"team": "Central Michigan Chippewas",
+"r": -3.46,
+"n": 6
+},
+{
+"team": "New Mexico State Aggies",
+"r": -3.47,
+"n": 6
+},
+{
+"team": "Fairfield Stags",
+"r": -3.48,
+"n": 5
+},
+{
+"team": "Coastal Carolina Chanticleers",
+"r": -3.5,
+"n": 7
+},
+{
+"team": "Cal Poly Mustangs",
+"r": -3.52,
+"n": 5
+},
+{
+"team": "Tulane Green Wave",
+"r": -3.58,
+"n": 7
+},
+{
+"team": "New Hampshire Wildcats",
+"r": -3.6,
+"n": 7
+},
+{
+"team": "Brown Bears",
+"r": -3.68,
+"n": 7
+},
+{
+"team": "Evansville Purple Aces",
+"r": -3.7,
+"n": 6
+},
+{
+"team": "Longwood Lancers",
+"r": -3.7,
+"n": 6
+},
+{
+"team": "Indiana State Sycamores",
+"r": -3.73,
+"n": 6
+},
+{
+"team": "Alabama A&M Bulldogs",
+"r": -3.73,
+"n": 5
+},
+{
+"team": "South Dakota Coyotes",
+"r": -3.86,
+"n": 7
+},
+{
+"team": "Hampton Pirates",
+"r": -3.87,
+"n": 4
+},
+{
+"team": "East Texas A&M Lions",
+"r": -3.93,
+"n": 6
+},
+{
+"team": "Dartmouth Big Green",
+"r": -3.96,
+"n": 5
+},
+{
+"team": "Western Carolina Catamounts",
+"r": -3.98,
+"n": 6
+},
+{
+"team": "SIU Edwardsville Cougars",
+"r": -3.99,
+"n": 4
+},
+{
+"team": "Youngstown State Penguins",
+"r": -4.0,
+"n": 7
+},
+{
+"team": "Oakland Golden Grizzlies",
+"r": -4.01,
+"n": 8
+},
+{
+"team": "Charleston Southern Buccaneers",
+"r": -4.08,
+"n": 6
+},
+{
+"team": "Lafayette Leopards",
+"r": -4.18,
+"n": 5
+},
+{
+"team": "Winthrop Eagles",
+"r": -4.19,
+"n": 7
+},
+{
+"team": "North Dakota Fighting Hawks",
+"r": -4.2,
+"n": 7
+},
+{
+"team": "Milwaukee Panthers",
+"r": -4.22,
+"n": 6
+},
+{
+"team": "Southeast Missouri State Redhawks",
+"r": -4.25,
+"n": 5
+},
+{
+"team": "Fairleigh Dickinson Knights",
+"r": -4.28,
+"n": 6
+},
+{
+"team": "Northern Arizona Lumberjacks",
+"r": -4.3,
+"n": 5
+},
+{
+"team": "UMBC Retrievers",
+"r": -4.45,
+"n": 7
+},
+{
+"team": "The Citadel Bulldogs",
+"r": -4.48,
+"n": 6
+},
+{
+"team": "Grambling Tigers",
+"r": -4.49,
+"n": 5
+},
+{
+"team": "Prairie View A&M Panthers",
+"r": -4.51,
+"n": 6
+},
+{
+"team": "Long Island University Sharks",
+"r": -4.52,
+"n": 8
+},
+{
+"team": "Northeastern Huskies",
+"r": -4.57,
+"n": 7
+},
+{
+"team": "Northwestern State Demons",
+"r": -4.57,
+"n": 6
+},
+{
+"team": "Long Beach State Beach",
+"r": -4.67,
+"n": 7
+},
+{
+"team": "Nicholls Colonels",
+"r": -4.68,
+"n": 6
+},
+{
+"team": "Northern Kentucky Norse",
+"r": -4.71,
+"n": 7
+},
+{
+"team": "Robert Morris Colonials",
+"r": -4.75,
+"n": 6
+},
+{
+"team": "California Baptist Lancers",
+"r": -4.9,
+"n": 7
+},
+{
+"team": "Sacramento State Hornets",
+"r": -4.91,
+"n": 3
+},
+{
+"team": "West Florida Argonauts",
+"r": -4.93,
+"n": 6
+},
+{
+"team": "UNC Greensboro Spartans",
+"r": -4.95,
+"n": 6
+},
+{
+"team": "North Alabama Lions",
+"r": -4.96,
+"n": 4
+},
+{
+"team": "Binghamton Bearcats",
+"r": -4.98,
+"n": 7
+},
+{
+"team": "Lindenwood Lions",
+"r": -5.0,
+"n": 6
+},
+{
+"team": "Southern Utah Thunderbirds",
+"r": -5.06,
+"n": 7
+},
+{
+"team": "Southern Jaguars",
+"r": -5.17,
+"n": 6
+},
+{
+"team": "Northern Colorado Bears",
+"r": -5.18,
+"n": 5
+},
+{
+"team": "Alabama State Hornets",
+"r": -5.2,
+"n": 5
+},
+{
+"team": "Cleveland State Vikings",
+"r": -5.22,
+"n": 6
+},
+{
+"team": "Ball State Cardinals",
+"r": -5.23,
+"n": 4
+},
+{
+"team": "Mercyhurst Lakers",
+"r": -5.33,
+"n": 7
+},
+{
+"team": "Sacred Heart Pioneers",
+"r": -5.36,
+"n": 5
+},
+{
+"team": "Little Rock Trojans",
+"r": -5.37,
+"n": 6
+},
+{
+"team": "Presbyterian Blue Hose",
+"r": -5.39,
+"n": 5
+},
+{
+"team": "SE Louisiana Lions",
+"r": -5.4,
+"n": 7
+},
+{
+"team": "Bryant Bulldogs",
+"r": -5.44,
+"n": 7
+},
+{
+"team": "Kansas City Roos",
+"r": -5.54,
+"n": 7
+},
+{
+"team": "Le Moyne Dolphins",
+"r": -5.55,
+"n": 5
+},
+{
+"team": "North Carolina Central Eagles",
+"r": -5.73,
+"n": 6
+},
+{
+"team": "UNC Asheville Bulldogs",
+"r": -5.74,
+"n": 7
+},
+{
+"team": "Omaha Mavericks",
+"r": -5.85,
+"n": 4
+},
+{
+"team": "Weber State Wildcats",
+"r": -5.91,
+"n": 7
+},
+{
+"team": "VMI Keydets",
+"r": -5.95,
+"n": 7
+},
+{
+"team": "Texas Southern Tigers",
+"r": -5.95,
+"n": 7
+},
+{
+"team": "New Haven Chargers",
+"r": -5.98,
+"n": 6
+},
+{
+"team": "Jackson State Tigers",
+"r": -5.99,
+"n": 7
+},
+{
+"team": "North Florida Ospreys",
+"r": -6.09,
+"n": 6
+},
+{
+"team": "Jacksonville Dolphins",
+"r": -6.1,
+"n": 6
+},
+{
+"team": "Air Force Falcons",
+"r": -6.15,
+"n": 6
+},
+{
+"team": "Niagara Purple Eagles",
+"r": -6.16,
+"n": 5
+},
+{
+"team": "Mount St. Mary's Mountaineers",
+"r": -6.16,
+"n": 6
+},
+{
+"team": "Morehead State Eagles",
+"r": -6.33,
+"n": 6
+},
+{
+"team": "Loyola Maryland Greyhounds",
+"r": -6.43,
+"n": 6
+},
+{
+"team": "Morgan State Bears",
+"r": -6.51,
+"n": 8
+},
+{
+"team": "Maine Black Bears",
+"r": -6.52,
+"n": 7
+},
+{
+"team": "Stetson Hatters",
+"r": -6.75,
+"n": 6
+},
+{
+"team": "Chicago State Cougars",
+"r": -6.86,
+"n": 8
+},
+{
+"team": "South Carolina State Bulldogs",
+"r": -6.89,
+"n": 6
+},
+{
+"team": "Incarnate Word Cardinals",
+"r": -6.95,
+"n": 5
+},
+{
+"team": "Wagner Seahawks",
+"r": -6.95,
+"n": 5
+},
+{
+"team": "Delaware State Hornets",
+"r": -7.01,
+"n": 6
+},
+{
+"team": "UAlbany Great Danes",
+"r": -7.09,
+"n": 8
+},
+{
+"team": "Manhattan Jaspers",
+"r": -7.15,
+"n": 7
+},
+{
+"team": "Southern Indiana Screaming Eagles",
+"r": -7.3,
+"n": 6
+},
+{
+"team": "Eastern Illinois Panthers",
+"r": -7.31,
+"n": 6
+},
+{
+"team": "Stonehill Skyhawks",
+"r": -7.37,
+"n": 5
+},
+{
+"team": "Saint Peter's Peacocks",
+"r": -7.43,
+"n": 7
+},
+{
+"team": "Western Illinois Leathernecks",
+"r": -7.51,
+"n": 7
+},
+{
+"team": "Maryland Eastern Shore Hawks",
+"r": -7.56,
+"n": 8
+},
+{
+"team": "Louisiana Ragin' Cajuns",
+"r": -7.69,
+"n": 4
+},
+{
+"team": "Coppin State Eagles",
+"r": -7.7,
+"n": 8
+},
+{
+"team": "Army Black Knights",
+"r": -8.03,
+"n": 6
+},
+{
+"team": "Bucknell Bison",
+"r": -8.22,
+"n": 7
+},
+{
+"team": "Detroit Mercy Titans",
+"r": -8.25,
+"n": 7
+},
+{
+"team": "Holy Cross Crusaders",
+"r": -8.49,
+"n": 7
+},
+{
+"team": "Norfolk State Spartans",
+"r": -8.61,
+"n": 6
+},
+{
+"team": "West Georgia Wolves",
+"r": -8.72,
+"n": 5
+},
+{
+"team": "UL Monroe Warhawks",
+"r": -8.95,
+"n": 7
+},
+{
+"team": "Canisius Golden Griffins",
+"r": -8.95,
+"n": 7
+},
+{
+"team": "South Carolina Upstate Spartans",
+"r": -9.13,
+"n": 7
+},
+{
+"team": "Gardner-Webb Runnin' Bulldogs",
+"r": -9.55,
+"n": 6
+},
+{
+"team": "Rider Broncs",
+"r": -9.8,
+"n": 7
+},
+{
+"team": "NJIT Highlanders",
+"r": -9.81,
+"n": 9
+},
+{
+"team": "Arkansas-Pine Bluff Golden Lions",
+"r": -9.83,
+"n": 7
+},
+{
+"team": "Mississippi Valley State Delta Devils",
+"r": -9.9,
+"n": 5
+},
+{
+"team": "Alcorn State Braves",
+"r": -10.21,
+"n": 8
+},
+{
+"team": "College of Biblical Studies Ambassadors",
+"r": -10.31,
+"n": 5
+},
+{
+"team": "Lincoln (CA) Oaklanders",
+"r": -11.09,
+"n": 5
+},
+{
+"team": "Florida A&M Rattlers",
+"r": -11.33,
+"n": 6
+},
+{
+"team": "Cheyney (PA) Wolves",
+"r": -12.91,
+"n": 5
+},
+{
+"team": "Bethesda Flames",
+"r": -13.28,
+"n": 7
+},
+{
+"team": "Virginia Lynchburg Dragons",
+"r": -18.4,
+"n": 8
+}
+]
+},
+"nhl": {
+"hca": 0.21,
+"rows": [
+{
+"team": "Carolina Hurricanes",
+"r": 1.2,
+"n": 21
+},
+{
+"team": "Minnesota Wild",
+"r": 0.94,
+"n": 24
+},
+{
+"team": "Colorado Avalanche",
+"r": 0.61,
+"n": 21
+},
+{
+"team": "Tampa Bay Lightning",
+"r": 0.53,
+"n": 20
+},
+{
+"team": "Boston Bruins",
+"r": 0.49,
+"n": 19
+},
+{
+"team": "Edmonton Oilers",
+"r": 0.45,
+"n": 24
+},
+{
+"team": "New Jersey Devils",
+"r": 0.43,
+"n": 22
+},
+{
+"team": "Dallas Stars",
+"r": 0.31,
+"n": 20
+},
+{
+"team": "Montreal Canadiens",
+"r": 0.27,
+"n": 23
+},
+{
+"team": "Ottawa Senators",
+"r": 0.23,
+"n": 23
+},
+{
+"team": "Vegas Golden Knights",
+"r": 0.19,
+"n": 23
+},
+{
+"team": "St. Louis Blues",
+"r": 0.18,
+"n": 22
+},
+{
+"team": "Nashville Predators",
+"r": 0.17,
+"n": 21
+},
+{
+"team": "Florida Panthers",
+"r": 0.05,
+"n": 21
+},
+{
+"team": "New York Islanders",
+"r": 0.04,
+"n": 21
+},
+{
+"team": "New York Rangers",
+"r": 0.03,
+"n": 19
+},
+{
+"team": "Buffalo Sabres",
+"r": 0.01,
+"n": 22
+},
+{
+"team": "Winnipeg Jets",
+"r": 0.01,
+"n": 22
+},
+{
+"team": "Philadelphia Flyers",
+"r": -0.1,
+"n": 22
+},
+{
+"team": "Utah Mammoth",
+"r": -0.23,
+"n": 22
+},
+{
+"team": "Los Angeles Kings",
+"r": -0.24,
+"n": 20
+},
+{
+"team": "Detroit Red Wings",
+"r": -0.25,
+"n": 21
+},
+{
+"team": "Washington Capitals",
+"r": -0.33,
+"n": 19
+},
+{
+"team": "Anaheim Ducks",
+"r": -0.35,
+"n": 23
+},
+{
+"team": "Columbus Blue Jackets",
+"r": -0.36,
+"n": 20
+},
+{
+"team": "Calgary Flames",
+"r": -0.44,
+"n": 22
+},
+{
+"team": "Seattle Kraken",
+"r": -0.44,
+"n": 18
+},
+{
+"team": "Toronto Maple Leafs",
+"r": -0.51,
+"n": 23
+},
+{
+"team": "Pittsburgh Penguins",
+"r": -0.51,
+"n": 20
+},
+{
+"team": "Chicago Blackhawks",
+"r": -0.59,
+"n": 21
+},
+{
+"team": "San Jose Sharks",
+"r": -0.61,
+"n": 23
+},
+{
+"team": "Vancouver Canucks",
+"r": -1.18,
+"n": 22
+}
+]
+}
+}
+}
